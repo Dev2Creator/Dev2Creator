@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="150" />
+<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="190" />
 
 # 🎀 Dev2Creator
 
