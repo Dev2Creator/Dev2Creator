@@ -1,177 +1,124 @@
 <div align="center">
 
-<img src="assets/art/divider.svg" alt="" width="100%" />
+<img src="assets/art/overworld-banner.svg" alt="A custom pixel-art Overworld scene with mountains, trees, water, and a tiny crafting hut" width="100%" />
+
+# ⛏️ Dev2Creator
+
+### **Builder of little things with big “what if?” energy.**
+
+`PYTHON` · `AI` · `GAME ENGINES` · `DEV TOOLS`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dev2Creator-263238?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev2Creator)
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4f8f45?style=for-the-badge&logo=vercel&logoColor=white)](https://dev2creator-portfolio.vercel.app/)
+
+[![PyPI](assets/badges/pypi.svg)](https://pypi.org/project/irlxleet/)
+[![irlxleet](assets/badges/irlxleet.svg)](https://pypi.org/project/irlxleet/)
+[![npm](assets/badges/npm.svg)](https://www.npmjs.com/package/irlxleet)
+
+**[🧭 Spawn point](#-spawn-point) · [🧰 Builds](#-the-builds) · [🗺️ Current quest](#️-current-quest) · [🎒 Inventory](#-inventory) · [📜 Rules of the world](#-rules-of-the-world)**
 
 </div>
 
-<table border="1" cellspacing="0" cellpadding="14">
-<tr>
-<td align="center" width="34%" valign="middle">
-<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="132" />
-<br /><br />
-<img src="assets/art/bubble.svg" alt="hi, i am the bunny" width="160" />
-</td>
-<td align="left" valign="middle">
-<h3 id="top">🎀 Dev2Creator</h3>
-<p><i>little ideas, real creations</i><br /><sub>quiet craft · honest software</sub></p>
-<p>
-<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-Dev2Creator-f9c6d0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
-<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-e0c3fc?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
-</p>
-<p>
-<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/pypi.svg" alt="PyPI: 51k+ downloads since June" height="26" /></a>
-<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/irlxleet.svg" alt="irlxleet: 5.4k downloads" height="26" /></a>
-<a href="https://www.npmjs.com/package/irlxleet"><img src="assets/badges/npm.svg" alt="npm: irlxleet 1.1k downloads" height="26" /></a>
-</p>
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
+## 🌄 Spawn point
 
-<a href="#user-content--hello"><code>hello</code></a> · <a href="#user-content--creations"><code>creations</code></a> · <a href="#user-content--currently"><code>currently</code></a> · <a href="#user-content-toolbox"><code>toolbox</code></a> · <a href="#user-content-promises"><code>promises</code></a> · <a href="#user-content-top"><code>top</code></a>
+Hey, I’m **Dev2Creator**. I like taking an idea from “wouldn’t it be cool if…” to a small, working thing you can actually use. Think carefully crafted builds, readable code, and absolutely no pretending a feature is finished when it isn’t.
 
-</div>
-
-<div align="center">
-
-<img src="assets/art/divider.svg" alt="" width="100%" />
-
-</div>
-
-## 🌷 Hello
-
-<sub>who is behind the bunny</sub>
-
-I build small things on purpose. Not because big things are wrong, but because
-small things can be finished, explained and trusted.
-
-```python
-me = {
-    "alias": "Dev2Creator",
-    "craft": ["Python", "AI", "game engines", "developer tools"],
-    "belief": "a small tool that solves one problem well beats a big one that solves none",
-    "motto": "Imagine. Build. Experiment.",
-    "status": "shipping in public, one release at a time",
-}
+```text
+┌────────────────────── PLAYER PROFILE ──────────────────────┐
+│  Player      Dev2Creator                                    │
+│  Class       Builder / tinkerer                             │
+│  Tools       Python · AI · game engines · developer tools   │
+│  Play style  Imagine → Build → Experiment → Repeat          │
+│  Current XP  Shipping in public, one release at a time      │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-Everything here is built the same way: start small, write the test first, keep it
-readable six months later, and say plainly what does not work yet.
+My build rule: **one useful thing, built well, beats a giant pile of unfinished blocks.** Start small, test early, keep it readable, and write down what actually works.
 
-## 🧸 Creations
+## 🧰 The builds
 
-<sub>six small things, six honest reasons</sub>
+*A few things I’ve crafted—each with its own little reason to exist.*
 
-| Project | What it does | Why it exists |
+| Build | What it does | Why I made it |
 | :--- | :--- | :--- |
-| 🌱 [IRL-](https://github.com/Dev2Creator/IRL-) | Universal package installer | installing things should not need a wiki page |
-| 🐈 [cutie-os](https://github.com/Dev2Creator/cutie-os) | Wholesome terminal environment | the terminal can be a kind place |
-| 🎮 [py3dgame](https://github.com/Dev2Creator/py3dgame) | 3D game development in Python | to actually understand how a renderer works |
-| 🗿 [IRL-WISDOM](https://github.com/Dev2Creator/IRL-WISDOM) | Wisdom-powered terminal CLI | a small nudge before the day starts |
-| 🦋 [irl-besty](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher | encryption that is fun to look at |
-| 🌸 [TransPower](https://github.com/Dev2Creator/TransPower-v1.7) | Offline AI companion | useful software without shipping your life to a server |
+| 🌱 [**IRL-**](https://github.com/Dev2Creator/IRL-) | Universal package installer | Installing things shouldn’t need a wiki quest. |
+| 🐈 [**cutie-os**](https://github.com/Dev2Creator/cutie-os) | Wholesome terminal environment | The terminal can be a kind place. |
+| 🎮 [**py3dgame**](https://github.com/Dev2Creator/py3dgame) | 3D game development in Python | I wanted to understand how a renderer works, block by block. |
+| 🗿 [**IRL-WISDOM**](https://github.com/Dev2Creator/IRL-WISDOM) | Wisdom-powered terminal CLI | A tiny bit of perspective before the day’s adventure. |
+| 🦋 [**irl-besty**](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher | Security can be playful *and* useful. |
+| 🌸 [**TransPower**](https://github.com/Dev2Creator/TransPower-v1.7) | Offline AI companion | Useful software, without shipping your life to a server. |
 
-## 🌱 Currently
+## 🗺️ Current quest
 
-<sub>what is on the desk this week</sub>
+- **Main quest:** building **py3dgame**, a Python 3D engine with a software rasteriser, scene documents, a preview server, and an optional provider-neutral AI runtime.
+- **Next chunks:** shadow mapping, a real texture pipeline, and tone mapping—the behind-the-scenes blocks that make a world feel real.
+- **Long-term build:** a scene editor that edits the same JSON the engine already loads.
+- **World setting:** offline-first. My projects should still work when the internet portal is closed.
 
-- **Building** py3dgame, a Python 3D engine with a software rasteriser, scene documents, a preview server and an optional provider-neutral AI runtime.
-- **Going deeper into** shadow mapping, tone mapping and world streaming, the boring parts that make engines feel real.
-- **Believing** offline first. Anything here should still work with the network unplugged.
+### Quest log
 
-## 🎀 Where it is going
+- [x] **py3dgame 0.6** — software rasteriser, scene documents, preview server
+- [ ] **py3dgame 0.7** — shadow maps, texture pipeline, tone mapping
+- [ ] Build an editor for engine-native scene documents
+- [ ] Ship one small terminal tool each month; small builds actually make it out of the crafting table
 
-- [x] py3dgame 0.6: software rasteriser, scene documents, preview server
-- [ ] py3dgame 0.7: shadow maps, a real texture pipeline, tone mapping
-- [ ] A scene editor that edits the same JSON the engine already loads
-- [ ] One smaller terminal tool every month, because small things ship
-
-<div align="center">
-
-<img src="assets/art/divider.svg" alt="" width="80%" />
-
-</div>
+## 🎒 Inventory
 
 <details>
-<summary><b>🍓 A few opinions</b> &nbsp;<sub>5 rows, no hedging</sub></summary>
-
-<br />
-
-| About | My take |
-| :--- | :--- |
-| Frameworks | learn the primitives first, the framework will still be there later |
-| Dependencies | every one of them is a promise someone else has to keep |
-| Documentation | if it is not written down, it does not exist |
-| Speed | measure before optimising, then measure again |
-| Tests | the test is the part of the project that survives |
-
-</details>
-
-<details id="toolbox">
-<summary><b>💻 Toolbox</b> &nbsp;<sub>what I reach for</sub></summary>
+<summary><b>Open inventory</b> — languages, tools & useful blocks</summary>
 
 <br />
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-f9c6d0?style=flat-square&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-d8e8ff?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-e0c3fc?style=flat-square&logo=cplusplus&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff0b8?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-d6ecff?style=flat-square&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-36723b?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-477b45?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-477b45?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8a7936?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-386b82?style=flat-square&logo=typescript&logoColor=white)
 
-**Web, tooling and things I test with**
+**Web, tooling & test gear**
 
-![React](https://img.shields.io/badge/React-d6f5ef?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-eeeeee?style=flat-square&logo=threedotjs&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-f3e0ff?style=flat-square&logo=vite&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-ffe2cf?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-ffdede?style=flat-square&logo=git&logoColor=black)
-![pytest](https://img.shields.io/badge/pytest-efe4ff?style=flat-square&logo=pytest&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-edf6ff?style=flat-square&logo=onnx&logoColor=black)
-
-</details>
-
-<details id="promises">
-<summary><b>💌 Little promises</b> &nbsp;<sub>the boring guarantees</sub></summary>
-
-<br />
-
-1. No telemetry, no account, no "sign in to continue".
-2. The docs only describe what already works.
-3. Small dependencies, pinned and explained.
-4. If a release breaks you, an issue gets an answer, not silence.
+![React](https://img.shields.io/badge/React-386b82?style=flat-square&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-35463a?style=flat-square&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-79623c?style=flat-square&logo=vite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-554c38?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-754d3b?style=flat-square&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-46694e?style=flat-square&logo=pytest&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-466078?style=flat-square&logo=onnx&logoColor=white)
 
 </details>
+
+## 🧱 Rules of the world
 
 <details>
-<summary><b>🎀 Why everything stays small</b> &nbsp;<sub>the only rule I keep</sub></summary>
+<summary><b>My redstone rules</b> — the small principles powering the builds</summary>
 
 <br />
 
-Big projects fail quietly: the README promises, the code does not. Small projects fail loudly, and loud failures can be fixed.
-
-So each repository here tries to do one thing, document exactly what works, and say clearly what does not. If a feature is not done, it is not in the docs. That rule is boring, and it is the only reason these projects still run a year later.
+| Rule | Why it matters |
+| :--- | :--- |
+| Learn the primitives before adding a framework. | The framework will still be there after you understand the blocks. |
+| Every dependency is a promise. | Keep the dependency chest small, pinned, and explained. |
+| If it isn’t documented, it’s a rumor. | Docs should describe what works—not the feature we wish existed. |
+| Measure before optimising. | Then measure again; vibes are not a benchmark. |
+| Tests are part of the build. | They’re what help the project survive its next adventure. |
+| No telemetry, accounts, or “sign in to continue.” | Your tools should belong to you. |
 
 </details>
 
 <div align="center">
 
-<img src="assets/art/divider.svg" alt="" width="80%" />
+---
 
-</div>
+### 🌟 Thanks for stopping by my corner of the Overworld.
 
-<div align="center">
+If a build saved you an afternoon, a ⭐ is a lovely little high-five.
 
-⋆｡°✩ ୨୧ ✩°｡⋆
+**Stay curious. Keep crafting.**
 
-*Thanks for visiting my little corner.*
-
-<sub>if something here saved you an afternoon, a star is a lovely thank you</sub>
-
-**Stay curious. Keep creating.** 🎀
-
-<sub><a href="#user-content-top">back to the top</a></sub>
+<sub>Fan-made profile styling inspired by block-building games; not affiliated with or endorsed by Mojang or Microsoft.</sub>
 
 </div>

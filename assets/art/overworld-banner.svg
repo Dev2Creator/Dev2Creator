@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Dev2Creator's pixel-art Overworld</title>
+  <desc id="desc">A bright pixel-art landscape with a sun, distant mountains, pine trees, a river, and a small crafting hut.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop offset="0" stop-color="#69c9e8"/>
+      <stop offset="1" stop-color="#b5eddb"/>
+    </linearGradient>
+    <linearGradient id="water" x2="0" y2="1">
+      <stop offset="0" stop-color="#42b7d0"/>
+      <stop offset="1" stop-color="#227ca5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <rect x="920" y="42" width="72" height="72" fill="#ffe58a"/>
+  <rect x="936" y="26" width="40" height="16" fill="#ffe58a"/>
+  <rect x="904" y="58" width="16" height="40" fill="#ffe58a"/>
+  <rect x="992" y="58" width="16" height="40" fill="#ffe58a"/>
+  <rect x="936" y="114" width="40" height="16" fill="#ffe58a"/>
+  <g fill="#f1fffb" opacity=".8">
+    <rect x="96" y="68" width="112" height="20"/><rect x="120" y="48" width="64" height="20"/>
+    <rect x="360" y="98" width="128" height="18"/><rect x="386" y="80" width="72" height="18"/>
+    <rect x="710" y="54" width="88" height="18"/><rect x="730" y="36" width="48" height="18"/>
+  </g>
+  <path d="M0 228 128 112 248 228 350 138 492 244 610 106 764 244 875 142 1028 250 1120 152 1200 220V360H0Z" fill="#739a78"/>
+  <path d="m0 228 128-116 76 70-32 2-20 24-24-5-26 25-32-3-18 17-52 2Z" fill="#edf2dc"/>
+  <path d="m350 138 142 106H458l-18-22-20 4-25-24-22 4-23-25Z" fill="#e9eedb"/>
+  <path d="m610 106 154 138H724l-24-24-22 4-28-28-22 4-24-29Z" fill="#f3f1db"/>
+  <path d="M0 244h1200v116H0Z" fill="#4c8f49"/>
+  <path d="M0 260h1200v24H0Z" fill="#67a94e"/>
+  <path d="M0 324h1200v36H0Z" fill="#77553a"/>
+  <path d="M0 324h1200v12H0Z" fill="#9a7046"/>
+  <g>
+    <path d="M120 244h48v-40h-16v-32h-16v32h-16Z" fill="#735238"/>
+    <path d="M88 188h112v-32h-20v-28h-24v-24h-24v24h-24v28H88Z" fill="#286947"/>
+    <path d="M104 156h80v-24h-24v-24h-24v24h-24Z" fill="#377e4b"/>
+    <path d="M1020 244h48v-44h-16v-32h-16v32h-16Z" fill="#735238"/>
+    <path d="M988 188h112v-32h-20v-28h-24v-24h-24v24h-24v28h-20Z" fill="#286947"/>
+    <path d="M1004 156h80v-24h-24v-24h-24v24h-24Z" fill="#377e4b"/>
+  </g>
+  <path d="M0 286h420l54 18h248l64-18h414v38H0Z" fill="url(#water)"/>
+  <g fill="#9be6df" opacity=".9">
+    <rect x="54" y="296" width="82" height="6"/><rect x="188" y="310" width="54" height="5"/>
+    <rect x="498" y="294" width="90" height="6"/><rect x="744" y="310" width="74" height="5"/>
+    <rect x="934" y="294" width="102" height="6"/>
+  </g>
+  <g>
+    <rect x="806" y="212" width="112" height="76" fill="#9a613d"/>
+    <path d="M790 214 862 160l72 54Z" fill="#813e36"/>
+    <path d="m806 212 56-42v42Z" fill="#a84e3d"/>
+    <rect x="822" y="232" width="24" height="56" fill="#533c32"/>
+    <rect x="866" y="232" width="34" height="28" fill="#a9e3ed"/>
+    <path d="M866 244h34M882 232v28" stroke="#e9f4dc" stroke-width="5"/>
+    <rect x="806" y="212" width="112" height="8" fill="#b27a4d"/>
+  </g>
+  <g fill="#d5e8a7">
+    <rect x="288" y="252" width="12" height="12"/><rect x="304" y="244" width="12" height="12"/><rect x="320" y="252" width="12" height="12"/>
+    <rect x="1090" y="258" width="12" height="12"/><rect x="1106" y="250" width="12" height="12"/>
+  </g>
+  <g fill="#ffdf8a">
+    <rect x="58" y="220" width="8" height="8"/><rect x="68" y="210" width="8" height="8"/><rect x="78" y="220" width="8" height="8"/>
+  </g>
+  <rect y="350" width="1200" height="10" fill="#4d382b" opacity=".75"/>
+</svg>
