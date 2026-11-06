@@ -130,6 +130,5 @@ So each repository here tries to do one thing, document exactly what works, and 
 
 Stay curious. Keep creating. 🎀
 
-<sub>built with too much tea and an unreasonable love for software</sub>
 
 </div>
