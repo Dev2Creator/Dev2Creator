@@ -58,7 +58,7 @@ def draw_stage(d, t):
 
 
 def draw_curtain(d, t, i):
-    edge = W // 2 - t * 38
+    edge = W // 2 - t * 32
     sway = i % 3
     for x0, x1 in ((0, edge), (W - edge, W)):
         if x1 - x0 <= 0:
@@ -86,7 +86,7 @@ def draw_bunny(d, pose, i, dx=0, lift=0, sq=1.0, wave=False):
     d.ellipse([cx - body_w // 2 + 2, bottom - 3, cx + body_w // 2 - 2, bottom + 4], fill=FUR_SH)
     d.ellipse([cx - 10, bottom - 3, cx - 2, bottom + 2], fill=WHITE, outline=OUTLINE)
     d.ellipse([cx + 2, bottom - 3, cx + 10, bottom + 2], fill=WHITE, outline=OUTLINE)
-    d.ellipse([cx + body_w // 2 - 5, top + body_h - 9, cx + body_w // 2 + 4, top + body_h - 1],
+    d.ellipse([cx + body_w // 2 - 6, top + body_h - 9, cx + body_w // 2 + 3, top + body_h - 1],
               fill=WHITE, outline=OUTLINE)
     d.ellipse([cx - body_w // 2, top, cx + body_w // 2, bottom], fill=WHITE, outline=OUTLINE)
     d.arc([cx - body_w // 2 + 3, top + body_h // 2, cx + body_w // 2 - 3, bottom - 2], 20, 160, fill=FUR_SH)
@@ -99,8 +99,11 @@ def draw_bunny(d, pose, i, dx=0, lift=0, sq=1.0, wave=False):
         ex = hx + side * 5 + side * bounce
         d.ellipse([ex - 3, hy - hr - 15, ex + 3, hy - hr + 3], fill=WHITE, outline=OUTLINE)
         d.ellipse([ex - 2, hy - hr - 12, ex + 2, hy - hr - 1], fill=PINK)
-    d.ellipse([hx - hr - 4, hy - hr - 12, hx - hr + 2, hy - hr - 5], fill=PINK, outline=CURTAIN_DK)
-    d.ellipse([hx - hr - 2, hy - hr - 11, hx - hr + 1, hy - hr - 6], fill=CURTAIN_LT)
+    bx, by = hx - hr - 4, hy - hr - 12
+    d.ellipse([bx - 3, by - 2, bx + 1, by + 2], fill=PINK, outline=CURTAIN_DK)
+    d.ellipse([bx + 1, by - 2, bx + 5, by + 2], fill=PINK, outline=CURTAIN_DK)
+    d.point([bx, by], fill=CURTAIN_DK)
+    d.point([bx + 1, by], fill=CURTAIN_DK)
     ey = hy - 1
     for side in (-1, 1):
         x = hx + side * 4
@@ -110,8 +113,10 @@ def draw_bunny(d, pose, i, dx=0, lift=0, sq=1.0, wave=False):
             d.rectangle([x - 1, ey - 1, x + 1, ey + 1], fill=DEEP)
             d.point([x - 1, ey - 1], fill=WHITE)
     d.rectangle([hx - 1, hy + 3, hx + 1, hy + 4], fill=PINK)
-    d.line([hx - 2, hy + 6, hx, hy + 5], fill=OUTLINE)
-    d.line([hx + 2, hy + 6, hx, hy + 5], fill=OUTLINE)
+    d.line([hx - 3, hy + 5, hx - 1, hy + 7], fill=OUTLINE)
+    d.line([hx - 1, hy + 7, hx, hy + 5], fill=OUTLINE)
+    d.line([hx, hy + 5, hx + 1, hy + 7], fill=OUTLINE)
+    d.line([hx + 1, hy + 7, hx + 3, hy + 5], fill=OUTLINE)
     for side in (-1, 1):
         d.line([hx + side * 7, hy + 3, hx + side * 11, hy + 1], fill=OUTLINE)
         d.line([hx + side * 7, hy + 5, hx + side * 11, hy + 6], fill=OUTLINE)
@@ -119,8 +124,13 @@ def draw_bunny(d, pose, i, dx=0, lift=0, sq=1.0, wave=False):
     d.rectangle([hx + 7, hy + 2, hx + 9, hy + 3], fill=PINK)
     if wave:
         wig = (0, 3, 1)[i % 3]
-        d.ellipse([cx + body_w // 2 + 1, top - 3 - wig, cx + body_w // 2 + 7, top + 3 - wig],
-                  fill=WHITE, outline=OUTLINE)
+        sx, sy = cx + body_w // 2 - 3, top + body_h // 2
+        px, py = cx + body_w // 2 + 7, top + 1 - wig
+        d.line([sx, sy, px, py], fill=WHITE, width=3)
+        d.ellipse([px - 3, py - 3, px + 3, py + 3], fill=WHITE, outline=OUTLINE)
+        d.point([px - 1, py - 1], fill=PINK)
+        d.point([px + 1, py - 1], fill=PINK)
+        d.point([px, py + 2], fill=PINK)
 
 
 def sparkle(d, x, y, big=False):
