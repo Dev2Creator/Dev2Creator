@@ -1,64 +1,80 @@
 <div align="center">
 
-<img src="assets/art/divider.svg" alt="Animated pastel sparkle divider" width="100%" />
+<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="100%" />
+
+<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/♡_hello,_I'm-Dev2Creator-ff8fb1?style=for-the-badge&labelColor=fff0f5" alt="Hello, I'm Dev2Creator" /></a>
+
+### ✨ a tiny corner of the internet, built with big dreams ✨
+
+*I turn little “what if?” ideas into things you can play with, learn from, and use.*
+
+<a href="#-spawn-point">🌷 about</a>　·　<a href="#-things-ive-crafted">🧸 projects</a>　·　<a href="#-current-quest">🗺️ quest</a>　·　<a href="#-my-little-toolbox">🎀 toolbox</a>　·　<a href="#-thanks-for-visiting">💌 say hi</a>
 
 </div>
 
-<table border="1" cellspacing="0" cellpadding="14">
+<table>
 <tr>
-<td align="center" width="30%" valign="middle">
+<td align="center" valign="middle" width="30%">
+
 <img src="assets/bunny.gif" alt="A little animated pixel bunny hopping" width="132" />
-<br /><br />
-<img src="assets/art/bubble.svg" alt="Hello from the bunny" width="180" />
+
+### 🐰 a note from the bunny
+
+<img src="assets/art/bunny-quotes.svg" alt="A cute quote carousel with 12 little reminders about creativity, coding, and being kind to yourself." width="100%" />
+
+<sub>🌸 little words, lots of love 🌸</sub>
+
 </td>
 <td align="center" valign="middle">
-<img src="assets/art/overworld-banner.svg" alt="A custom pixel-art Minecraft-inspired Overworld with mountains, trees, water, and a crafting hut" width="100%" />
-<h1 id="top">⛏️ Dev2Creator</h1>
-<h3>Builder of little things with big “what if?” energy.</h3>
-<p><code>PYTHON</code> · <code>AI</code> · <code>GAME ENGINES</code> · <code>DEV TOOLS</code></p>
-<p>
-<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-Dev2Creator-263238?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-4f8f45?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-<p>
+
+<img src="assets/art/overworld-banner.svg" alt="A custom pixel-art world with mountains, trees, water, and a crafting hut" width="100%" />
+
+## ⛏️ Dev2Creator
+
+**Builder of little things with big “what if?” energy.**
+
+`PYTHON`　`AI`　`GAME ENGINES`　`DEV TOOLS`
+
+<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-come_say_hi-ff91b5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-take_a_peek-b28dff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
 <a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/pypi.svg" alt="PyPI downloads" height="26" /></a>
 <a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/irlxleet.svg" alt="irlxleet downloads" height="26" /></a>
 <a href="https://www.npmjs.com/package/irlxleet"><img src="assets/badges/npm.svg" alt="npm downloads" height="26" /></a>
-</p>
-<p><b>Imagine. Build. Experiment. Repeat.</b></p>
+
+🌱 **Imagine · Build · Experiment · Repeat** 🌱
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<a href="#-spawn-point"><code>🧭 spawn point</code></a> · <a href="#-the-builds"><code>🧰 builds</code></a> · <a href="#️-current-quest"><code>🗺️ current quest</code></a> · <a href="#-inventory"><code>🎒 inventory</code></a> · <a href="#-rules-of-the-world"><code>📜 rules</code></a>
-
-<img src="assets/art/divider.svg" alt="Animated pastel sparkle divider" width="100%" />
+<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="85%" />
 
 </div>
 
-## 🌄 Spawn point
+## 🌷 Spawn point
 
-Hey, I’m **Dev2Creator**. I like taking an idea from “wouldn’t it be cool if…” to a small, working thing you can actually use. Think carefully crafted builds, readable code, and absolutely no pretending a feature is finished when it isn’t.
+Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool if…”* to a small, working thing you can actually use. Around here you’ll find carefully crafted builds, readable code, playful experiments, and lots of curiosity. ☁️
 
 ```text
-┌────────────────────── PLAYER PROFILE ──────────────────────┐
-│  Player      Dev2Creator                                    │
-│  Class       Builder / tinkerer                             │
-│  Tools       Python · AI · game engines · developer tools   │
-│  Play style  Imagine → Build → Experiment → Repeat          │
-│  Current XP  Shipping in public, one release at a time      │
-└─────────────────────────────────────────────────────────────┘
+╭─────────────── ✿ little player card ✿ ───────────────╮
+│  name       Dev2Creator                              │
+│  class      builder · tinkerer · curious human       │
+│  favorite   Python · AI · game engines · dev tools    │
+│  play style imagine → build → experiment → repeat    │
+│  current XP shipping small things with love          │
+╰───────���───────────────────────────────────────────────╯
 ```
 
-My build rule: **one useful thing, built well, beats a giant pile of unfinished blocks.** Start small, test early, keep it readable, and write down what actually works.
+> 🌼 **My build rule:** one useful thing, built well, beats a giant pile of unfinished blocks. Start small, test early, keep it readable, and write down what actually works.
 
-## 🧰 The builds
+## 🧸 Things I’ve crafted
 
-*A few things I’ve crafted—each with its own little reason to exist.*
+*A few little projects, each with its own reason to exist.*
 
-| Build | What it does | Why I made it |
+| 🌟 Build | 🧁 What it does | 💭 Why I made it |
 | :--- | :--- | :--- |
 | 🌱 [**IRL-**](https://github.com/Dev2Creator/IRL-) | Universal package installer | Installing things shouldn’t need a wiki quest. |
 | 🐈 [**cutie-os**](https://github.com/Dev2Creator/cutie-os) | Wholesome terminal environment | The terminal can be a kind place. |
@@ -70,71 +86,71 @@ My build rule: **one useful thing, built well, beats a giant pile of unfinished 
 ## 🗺️ Current quest
 
 - **Main quest:** building **py3dgame**, a Python 3D engine with a software rasteriser, scene documents, a preview server, and an optional provider-neutral AI runtime.
-- **Next chunks:** shadow mapping, a real texture pipeline, and tone mapping—the behind-the-scenes blocks that make a world feel real.
-- **Long-term build:** a scene editor that edits the same JSON the engine already loads.
-- **World setting:** offline-first. My projects should still work when the internet portal is closed.
+- **Next blocks:** shadow mapping, a real texture pipeline, and tone mapping—the behind-the-scenes details that make a world feel real.
+- **Big dream:** a scene editor that edits the same JSON the engine already loads.
+- **World setting:** offline-first. My projects should still work when the internet portal is closed. 🌙
 
-### Quest log
+### 📜 Quest log
 
 - [x] **py3dgame 0.6** — software rasteriser, scene documents, preview server
 - [ ] **py3dgame 0.7** — shadow maps, texture pipeline, tone mapping
 - [ ] Build an editor for engine-native scene documents
-- [ ] Ship one small terminal tool each month; small builds actually make it out of the crafting table
+- [ ] Ship one small terminal tool each month; little builds deserve to leave the crafting table
 
-## 🎒 Inventory
+## 🎀 My little toolbox
 
 <details>
-<summary><b>Open inventory</b> — languages, tools & useful blocks</summary>
+<summary><b>Open the toolbox</b> — languages, tools & useful blocks ✨</summary>
 
 <br />
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-36723b?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-477b45?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-477b45?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8a7936?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-386b82?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff9bb5?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-8ab8ff?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-8ab8ff?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5c66b?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-83c9d4?style=flat-square&logo=typescript&logoColor=white)
 
-**Web, tooling & test gear**
+**Web, tools & test gear**
 
-![React](https://img.shields.io/badge/React-386b82?style=flat-square&logo=react&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-35463a?style=flat-square&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-79623c?style=flat-square&logo=vite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-554c38?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-754d3b?style=flat-square&logo=git&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-46694e?style=flat-square&logo=pytest&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-466078?style=flat-square&logo=onnx&logoColor=white)
+![React](https://img.shields.io/badge/React-83c9d4?style=flat-square&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-8fbd9a?style=flat-square&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-c1a0f5?style=flat-square&logo=vite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-a9998a?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f29c83?style=flat-square&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-91c99a?style=flat-square&logo=pytest&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-83b8d5?style=flat-square&logo=onnx&logoColor=white)
 
 </details>
 
-## 🧱 Rules of the world
+## 🪄 The little rules behind my builds
 
 <details>
-<summary><b>My redstone rules</b> — the small principles powering the builds</summary>
+<summary><b>My redstone rules</b> — tiny principles, big difference 💖</summary>
 
 <br />
 
-| Rule | Why it matters |
+| 🌟 Rule | 💌 Why it matters |
 | :--- | :--- |
 | Learn the primitives before adding a framework. | The framework will still be there after you understand the blocks. |
 | Every dependency is a promise. | Keep the dependency chest small, pinned, and explained. |
 | If it isn’t documented, it’s a rumor. | Docs should describe what works—not the feature we wish existed. |
 | Measure before optimising. | Then measure again; vibes are not a benchmark. |
-| Tests are part of the build. | They’re what help the project survive its next adventure. |
+| Tests are part of the build. | They help the project survive its next adventure. |
 | No telemetry, accounts, or “sign in to continue.” | Your tools should belong to you. |
 
 </details>
 
-<div align="center">
+<div align="center" id="thanks-for-visiting">
 
-<img src="assets/art/divider.svg" alt="Animated pastel sparkle divider" width="80%" />
+<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="80%" />
 
-### 🌟 Thanks for stopping by my corner of the Overworld.
+## 💌 Thanks for visiting my little corner!
 
-If a build saved you an afternoon, a ⭐ is a lovely little high-five.
+If a build saved you an afternoon, a ⭐ is a lovely little high-five. If you have an idea, question, or kind hello, my [portfolio](https://dev2creator-portfolio.vercel.app/) is always open. 🌷
 
-**Stay curious. Keep crafting.**
+**Stay curious. Keep crafting. Be kind to yourself.** 🩷
 
 <sub>Fan-made profile styling inspired by block-building games; not affiliated with or endorsed by Mojang or Microsoft.</sub>
 
