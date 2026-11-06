@@ -6,20 +6,30 @@
 
 <sub><i>little ideas, real creations</i></sub>
 
+<sub>quiet craft · honest software</sub>
+
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dev2Creator-f9c6d0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Dev2Creator)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-e0c3fc?style=for-the-badge&logo=vercel&logoColor=black)](https://dev2creator-portfolio.vercel.app/)
 
-<sub>polite to machines · kind to people</sub>
+<br />
 
-<sub>🌸 maker of small software · admirer of clean code · collector of pixel bunnies 🌸</sub>
+[![py3dgame](https://img.shields.io/github/last-commit/Dev2Creator/py3dgame?style=for-the-badge&label=py3dgame&color=c9e4de&logoColor=black)](https://github.com/Dev2Creator/py3dgame)
+[![IRL-](https://img.shields.io/badge/IRL--_-installer-fdf0c8?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/IRL-)
+[![TransPower](https://img.shields.io/badge/TransPower-offline%20AI-f7d6e0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/TransPower-v1.7)
+[![cutie-os](https://img.shields.io/badge/cutie--os-terminal-d6e4f0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/cutie-os)
+
+<sub>🌸 maker of small software · collector of pixel bunnies · friend of the terminal 🌸</sub>
 
 </div>
 
 ---
 
-## 🌷 A little about me
+## 🌷 Hello
+
+I build small things on purpose. Not because big things are wrong, but because
+small things can be finished, explained and trusted.
 
 ```python
 me = {
@@ -27,13 +37,12 @@ me = {
     "craft": ["Python", "AI", "game engines", "developer tools"],
     "belief": "a small tool that solves one problem well beats a big one that solves none",
     "motto": "Imagine. Build. Experiment.",
-    "status": "shipping in public, one small release at a time",
+    "status": "shipping in public, one release at a time",
 }
 ```
 
-I like software that fits in your head. A package installer that explains itself, a terminal that feels gentle, an emoji cipher seeded from a password, and lately a 3D engine written in pure Python with no GPU requirement at all.
-
-Everything here is built the same way: start small, write the test first, and keep it readable six months later.
+Everything here is built the same way: start small, write the test first, keep it
+readable six months later, and say plainly what does not work yet.
 
 ---
 
@@ -50,14 +59,6 @@ Everything here is built the same way: start small, write the test first, and ke
 
 ---
 
-## 🌱 Currently
-
-1. *Building* py3dgame, a Python 3D engine with a software rasteriser, scene documents, a preview server and an optional provider-neutral AI runtime.
-2. *Going deeper into* shadow mapping, tone mapping and world streaming, the boring parts that make engines feel real.
-3. *Believing* offline first. Anything here should still work with the network unplugged.
-
----
-
 ## 🍓 A few opinions
 
 | About | My take |
@@ -67,6 +68,14 @@ Everything here is built the same way: start small, write the test first, and ke
 | Documentation | if it is not written down, it does not exist |
 | Speed | measure before optimising, then measure again |
 | Tests | the test is the part of the project that survives |
+
+---
+
+## 🌱 Currently
+
+1. *Building* py3dgame, a Python 3D engine with a software rasteriser, scene documents, a preview server and an optional provider-neutral AI runtime.
+2. *Going deeper into* shadow mapping, tone mapping and world streaming, the boring parts that make engines feel real.
+3. *Believing* offline first. Anything here should still work with the network unplugged.
 
 ---
 
@@ -80,13 +89,16 @@ Everything here is built the same way: start small, write the test first, and ke
 ![JavaScript](https://img.shields.io/badge/JavaScript-fff0b8?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-d6ecff?style=flat-square&logo=typescript&logoColor=black)
 
-**Web and tools**
+**Web, tooling and things I test with**
 
 ![React](https://img.shields.io/badge/React-d6f5ef?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-eeeeee?style=flat-square&logo=threedotjs&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-f3e0ff?style=flat-square&logo=vite&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-ffe2cf?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-ffdede?style=flat-square&logo=git&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-efe4ff?style=flat-square&logo=pytest&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-edf6ff?style=flat-square&logo=onnx&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-f7f7f7?style=flat-square&logo=json&logoColor=black)
 
 ---
 
@@ -114,7 +126,7 @@ Everything here is built the same way: start small, write the test first, and ke
 
 Big projects fail quietly: the README promises, the code does not. Small projects fail loudly, and loud failures can be fixed.
 
-So each repository here tries to do one thing, document exactly what works, and say clearly what does not. If a feature is not done, it is not in the docs. That rule is boring, and it is the only reason these projects still compile a year later.
+So each repository here tries to do one thing, document exactly what works, and say clearly what does not. If a feature is not done, it is not in the docs. That rule is boring, and it is the only reason these projects still run a year later.
 
 </details>
 
@@ -126,9 +138,8 @@ So each repository here tries to do one thing, document exactly what works, and 
 
 *Thanks for visiting my little corner.*
 
-<sub>made with ♡, too much tea, and a soft spot for pixel bunnies</sub>
+<sub>if something here saved you an afternoon, a star is a lovely thank you</sub>
 
 Stay curious. Keep creating. 🎀
-
 
 </div>
