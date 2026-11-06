@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Dev2Creator" width="100%" />
+<img src="assets/banner.jpg" alt="Dev2Creator - just a girl who codes" width="100%" />
 
 <br />
 
