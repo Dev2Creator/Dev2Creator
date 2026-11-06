@@ -1,31 +1,24 @@
 <table>
-  <tr>
-    <td align="center" width="38%" valign="middle">
-      <img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="150" />
-      <br />
-      <img src="assets/art/bubble.svg" alt="hi, i am the bunny" width="190" />
-    </td>
-    <td align="left" valign="middle">
-
-### 🎀 Dev2Creator
-
-<sub><i>little ideas, real creations</i></sub>
-
-<sub>quiet craft · honest software</sub>
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dev2Creator-f9c6d0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Dev2Creator)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-e0c3fc?style=for-the-badge&logo=vercel&logoColor=black)](https://dev2creator-portfolio.vercel.app/)
-
-<br />
-
-[<img src="assets/badges/pypi.svg" alt="PyPI: 51k+ downloads since June" height="28" />](https://pypi.org/project/irlxleet/)
-[<img src="assets/badges/irlxleet.svg" alt="irlxleet: 5.4k downloads" height="28" />](https://pypi.org/project/irlxleet/)
-[<img src="assets/badges/npm.svg" alt="npm: irlxleet 1.1k downloads" height="28" />](https://www.npmjs.com/package/irlxleet)
-
-    </td>
-  </tr>
+<tr>
+<td align="center" width="36%" valign="middle">
+<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="140" />
+<br /><br />
+<img src="assets/art/bubble.svg" alt="hi, i am the bunny" width="170" />
+</td>
+<td align="left" valign="middle">
+<h3>🎀 Dev2Creator</h3>
+<p><i>little ideas, real creations</i><br /><sub>quiet craft · honest software</sub></p>
+<p>
+<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-Dev2Creator-f9c6d0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
+<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-e0c3fc?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+</p>
+<p>
+<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/pypi.svg" alt="PyPI: 51k+ downloads since June" height="26" /></a>
+<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/irlxleet.svg" alt="irlxleet: 5.4k downloads" height="26" /></a>
+<a href="https://www.npmjs.com/package/irlxleet"><img src="assets/badges/npm.svg" alt="npm: irlxleet 1.1k downloads" height="26" /></a>
+</p>
+</td>
+</tr>
 </table>
 
 <div align="center">
