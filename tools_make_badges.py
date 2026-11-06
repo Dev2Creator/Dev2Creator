@@ -43,6 +43,10 @@ specs = {
     "pypi.svg": badge("PyPI", "51k+ since June", "#f9c6d0", "#f3d7f0"),
     "irlxleet.svg": badge("irlxleet", "5.4k downloads", "#e0c3fc", "#cfe0ff"),
     "npm.svg": badge("npm", "irlxleet 1.1k", "#c9e4de", "#d9eef6"),
+    "py3dgame.svg": badge("py3dgame", "3D engine in Python", "#c9e4de", "#e2f0fb"),
+    "irl.svg": badge("IRL-", "package installer", "#fdf0c8", "#fbe6d4"),
+    "transpower.svg": badge("TransPower", "offline AI companion", "#f7d6e0", "#f3d7f0"),
+    "cutie-os.svg": badge("cutie-os", "gentle terminal", "#d6e4f0", "#e6e1fb"),
 }
 for name, svg in specs.items():
     (out / name).write_text(svg, encoding="utf-8")

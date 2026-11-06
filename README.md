@@ -15,10 +15,10 @@
 
 <br />
 
-[![py3dgame](https://img.shields.io/badge/py3dgame-3D%20engine-c9e4de?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/py3dgame)
-[![IRL-](https://img.shields.io/badge/IRL--_-installer-fdf0c8?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/IRL-)
-[![TransPower](https://img.shields.io/badge/TransPower-offline%20AI-f7d6e0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/TransPower-v1.7)
-[![cutie-os](https://img.shields.io/badge/cutie--os-terminal-d6e4f0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/cutie-os)
+[<img src="assets/badges/py3dgame.svg" alt="py3dgame: 3D engine in Python" height="30" />](https://github.com/Dev2Creator/py3dgame)
+[<img src="assets/badges/irl.svg" alt="IRL-: package installer" height="30" />](https://github.com/Dev2Creator/IRL-)
+[<img src="assets/badges/transpower.svg" alt="TransPower: offline AI companion" height="30" />](https://github.com/Dev2Creator/TransPower-v1.7)
+[<img src="assets/badges/cutie-os.svg" alt="cutie-os: gentle terminal" height="30" />](https://github.com/Dev2Creator/cutie-os)
 
 <br />
 
