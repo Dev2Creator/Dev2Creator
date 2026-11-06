@@ -20,6 +20,11 @@
 [![TransPower](https://img.shields.io/badge/TransPower-offline%20AI-f7d6e0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/TransPower-v1.7)
 [![cutie-os](https://img.shields.io/badge/cutie--os-terminal-d6e4f0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/cutie-os)
 
+<br />
+
+[![PyPI lifetime](https://img.shields.io/badge/PyPI-46k%2B%20lifetime%20installs-f9c6d0?style=for-the-badge&logo=pypi&logoColor=black)](https://pypi.org/project/irl-pkg/)
+[![PyPI monthly](https://img.shields.io/pypi/dm/irl-pkg?style=for-the-badge&label=irl-pkg%20%2F%20month&color=c9e4de&logo=pypi&logoColor=black)](https://pypi.org/project/irl-pkg/)
+
 <sub>🌸 maker of small software · collector of pixel bunnies · friend of the terminal 🌸</sub>
 
 </div>
