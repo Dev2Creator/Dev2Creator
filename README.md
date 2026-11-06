@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="190" />
+<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="165" />
 
 # 🎀 Dev2Creator
 
@@ -12,6 +12,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-e0c3fc?style=for-the-badge&logo=vercel&logoColor=black)](https://dev2creator-portfolio.vercel.app/)
 
 <sub>polite to machines · kind to people</sub>
+
+<sub>🌸 maker of small software · admirer of clean code · collector of pixel bunnies 🌸</sub>
 
 </div>
 
@@ -56,6 +58,18 @@ Everything here is built the same way: start small, write the test first, and ke
 
 ---
 
+## 🍓 A few opinions
+
+| About | My take |
+| --- | --- |
+| Frameworks | learn the primitives first, the framework will still be there later |
+| Dependencies | every one of them is a promise someone else has to keep |
+| Documentation | if it is not written down, it does not exist |
+| Speed | measure before optimising, then measure again |
+| Tests | the test is the part of the project that survives |
+
+---
+
 ## 💻 Toolbox
 
 **Languages**
@@ -85,6 +99,14 @@ Everything here is built the same way: start small, write the test first, and ke
 
 ---
 
+## 🎀 What is next
+
+1. py3dgame 0.7: shadow maps, a real texture pipeline, tone mapping
+2. A scene editor that edits the same JSON the engine already loads
+3. One smaller terminal tool every month, because small things ship
+
+---
+
 <details>
 <summary>🎀 Why everything stays small</summary>
 
@@ -103,6 +125,8 @@ So each repository here tries to do one thing, document exactly what works, and 
 ⋆｡°✩ ୨୧ ✩°｡⋆
 
 *Thanks for visiting my little corner.*
+
+<sub>made with ♡, too much tea, and a soft spot for pixel bunnies</sub>
 
 Stay curious. Keep creating. 🎀
 
