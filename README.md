@@ -22,9 +22,9 @@
 
 <br />
 
-[![PyPI](https://img.shields.io/badge/PyPI-51k%2B%20downloads%20since%20June-f9c6d0?style=for-the-badge&logo=pypi&logoColor=black)](https://pypi.org/project/irl-pkg/)
-[![PyPI monthly](https://img.shields.io/pypi/dm/irl-pkg?style=for-the-badge&label=irl-pkg%20%2F%20month&color=c9e4de&logo=pypi&logoColor=black)](https://pypi.org/project/irl-pkg/)
-[![irlxleet](https://img.shields.io/badge/irlxleet-5.4k%2B%20downloads-f7d6e0?style=for-the-badge&logo=pypi&logoColor=black)](https://pypi.org/project/irlxleet/)
+[<img src="assets/badges/pypi.svg" alt="PyPI: 51k+ downloads since June" height="30" />](https://pypi.org/project/irlxleet/)
+[<img src="assets/badges/irlxleet.svg" alt="irlxleet: 5.4k downloads" height="30" />](https://pypi.org/project/irlxleet/)
+[<img src="assets/badges/npm.svg" alt="npm: irlxleet 1.1k downloads" height="30" />](https://www.npmjs.com/package/irlxleet)
 
 <sub>🌸 maker of small software · collector of pixel bunnies · friend of the terminal 🌸</sub>
 
