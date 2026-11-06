@@ -1,8 +1,13 @@
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="38%" valign="middle">
+      <img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="150" />
+      <br />
+      <img src="assets/art/bubble.svg" alt="hi, i am the bunny" width="190" />
+    </td>
+    <td align="left" valign="middle">
 
-<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="165" />
-
-# 🎀 Dev2Creator
+### 🎀 Dev2Creator
 
 <sub><i>little ideas, real creations</i></sub>
 
@@ -15,22 +20,30 @@
 
 <br />
 
+[<img src="assets/badges/pypi.svg" alt="PyPI: 51k+ downloads since June" height="28" />](https://pypi.org/project/irlxleet/)
+[<img src="assets/badges/irlxleet.svg" alt="irlxleet: 5.4k downloads" height="28" />](https://pypi.org/project/irlxleet/)
+[<img src="assets/badges/npm.svg" alt="npm: irlxleet 1.1k downloads" height="28" />](https://www.npmjs.com/package/irlxleet)
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="assets/art/divider.svg" alt="" width="100%" />
+
+</div>
+
+<div align="center">
+
 [<img src="assets/badges/py3dgame.svg" alt="py3dgame: 3D engine in Python" height="30" />](https://github.com/Dev2Creator/py3dgame)
 [<img src="assets/badges/irl.svg" alt="IRL-: package installer" height="30" />](https://github.com/Dev2Creator/IRL-)
 [<img src="assets/badges/transpower.svg" alt="TransPower: offline AI companion" height="30" />](https://github.com/Dev2Creator/TransPower-v1.7)
 [<img src="assets/badges/cutie-os.svg" alt="cutie-os: gentle terminal" height="30" />](https://github.com/Dev2Creator/cutie-os)
 
-<br />
-
-[<img src="assets/badges/pypi.svg" alt="PyPI: 51k+ downloads since June" height="30" />](https://pypi.org/project/irlxleet/)
-[<img src="assets/badges/irlxleet.svg" alt="irlxleet: 5.4k downloads" height="30" />](https://pypi.org/project/irlxleet/)
-[<img src="assets/badges/npm.svg" alt="npm: irlxleet 1.1k downloads" height="30" />](https://www.npmjs.com/package/irlxleet)
-
 <sub>🌸 maker of small software · collector of pixel bunnies · friend of the terminal 🌸</sub>
 
 </div>
-
----
 
 ## 🌷 Hello
 
@@ -50,7 +63,7 @@ me = {
 Everything here is built the same way: start small, write the test first, keep it
 readable six months later, and say plainly what does not work yet.
 
----
+<div align="center"><img src="assets/art/divider.svg" alt="" width="80%" /></div>
 
 ## 🧸 Little creations
 
@@ -75,7 +88,7 @@ readable six months later, and say plainly what does not work yet.
 | Speed | measure before optimising, then measure again |
 | Tests | the test is the part of the project that survives |
 
----
+<div align="center"><img src="assets/art/divider.svg" alt="" width="80%" /></div>
 
 ## 🌱 Currently
 
@@ -106,7 +119,7 @@ readable six months later, and say plainly what does not work yet.
 ![ONNX](https://img.shields.io/badge/ONNX-edf6ff?style=flat-square&logo=onnx&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-f7f7f7?style=flat-square&logo=json&logoColor=black)
 
----
+<div align="center"><img src="assets/art/divider.svg" alt="" width="80%" /></div>
 
 ## 🧃 Little facts
 
@@ -124,6 +137,17 @@ readable six months later, and say plainly what does not work yet.
 3. One smaller terminal tool every month, because small things ship
 
 ---
+
+<div align="center"><img src="assets/art/divider.svg" alt="" width="80%" /></div>
+
+## 💌 Little promises
+
+1. No telemetry, no account, no "sign in to continue".
+2. The docs only describe what already works.
+3. Small dependencies, pinned and explained.
+4. If a release breaks you, an issue gets an answer, not silence.
+
+<div align="center"><img src="assets/art/divider.svg" alt="" width="80%" /></div>
 
 <details>
 <summary>🎀 Why everything stays small</summary>
