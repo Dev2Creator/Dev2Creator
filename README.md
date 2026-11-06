@@ -15,7 +15,7 @@
 
 <br />
 
-[![py3dgame](https://img.shields.io/github/last-commit/Dev2Creator/py3dgame?style=for-the-badge&label=py3dgame&color=c9e4de&logoColor=black)](https://github.com/Dev2Creator/py3dgame)
+[![py3dgame](https://img.shields.io/badge/py3dgame-3D%20engine-c9e4de?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/py3dgame)
 [![IRL-](https://img.shields.io/badge/IRL--_-installer-fdf0c8?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/IRL-)
 [![TransPower](https://img.shields.io/badge/TransPower-offline%20AI-f7d6e0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/TransPower-v1.7)
 [![cutie-os](https://img.shields.io/badge/cutie--os-terminal-d6e4f0?style=for-the-badge&logoColor=black)](https://github.com/Dev2Creator/cutie-os)
