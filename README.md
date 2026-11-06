@@ -1,25 +1,42 @@
 <div align="center">
 
-<img src="assets/art/overworld-banner.svg" alt="A custom pixel-art Overworld scene with mountains, trees, water, and a tiny crafting hut" width="100%" />
-
-# ⛏️ Dev2Creator
-
-### **Builder of little things with big “what if?” energy.**
-
-`PYTHON` · `AI` · `GAME ENGINES` · `DEV TOOLS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dev2Creator-263238?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev2Creator)
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-4f8f45?style=for-the-badge&logo=vercel&logoColor=white)](https://dev2creator-portfolio.vercel.app/)
-
-[![PyPI](assets/badges/pypi.svg)](https://pypi.org/project/irlxleet/)
-[![irlxleet](assets/badges/irlxleet.svg)](https://pypi.org/project/irlxleet/)
-[![npm](assets/badges/npm.svg)](https://www.npmjs.com/package/irlxleet)
-
-**[🧭 Spawn point](#-spawn-point) · [🧰 Builds](#-the-builds) · [🗺️ Current quest](#️-current-quest) · [🎒 Inventory](#-inventory) · [📜 Rules of the world](#-rules-of-the-world)**
+<img src="assets/art/divider.svg" alt="Animated pastel sparkle divider" width="100%" />
 
 </div>
 
----
+<table border="1" cellspacing="0" cellpadding="14">
+<tr>
+<td align="center" width="30%" valign="middle">
+<img src="assets/bunny.gif" alt="A little animated pixel bunny hopping" width="132" />
+<br /><br />
+<img src="assets/art/bubble.svg" alt="Hello from the bunny" width="180" />
+</td>
+<td align="center" valign="middle">
+<img src="assets/art/overworld-banner.svg" alt="A custom pixel-art Minecraft-inspired Overworld with mountains, trees, water, and a crafting hut" width="100%" />
+<h1 id="top">⛏️ Dev2Creator</h1>
+<h3>Builder of little things with big “what if?” energy.</h3>
+<p><code>PYTHON</code> · <code>AI</code> · <code>GAME ENGINES</code> · <code>DEV TOOLS</code></p>
+<p>
+<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-Dev2Creator-263238?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-4f8f45?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+<p>
+<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/pypi.svg" alt="PyPI downloads" height="26" /></a>
+<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/irlxleet.svg" alt="irlxleet downloads" height="26" /></a>
+<a href="https://www.npmjs.com/package/irlxleet"><img src="assets/badges/npm.svg" alt="npm downloads" height="26" /></a>
+</p>
+<p><b>Imagine. Build. Experiment. Repeat.</b></p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="#-spawn-point"><code>🧭 spawn point</code></a> · <a href="#-the-builds"><code>🧰 builds</code></a> · <a href="#️-current-quest"><code>🗺️ current quest</code></a> · <a href="#-inventory"><code>🎒 inventory</code></a> · <a href="#-rules-of-the-world"><code>📜 rules</code></a>
+
+<img src="assets/art/divider.svg" alt="Animated pastel sparkle divider" width="100%" />
+
+</div>
 
 ## 🌄 Spawn point
 
@@ -111,7 +128,7 @@ My build rule: **one useful thing, built well, beats a giant pile of unfinished 
 
 <div align="center">
 
----
+<img src="assets/art/divider.svg" alt="Animated pastel sparkle divider" width="80%" />
 
 ### 🌟 Thanks for stopping by my corner of the Overworld.
 
