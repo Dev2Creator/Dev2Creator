@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Dev2Creator - just a girl who codes" width="100%" />
+<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="112" />
+
+# 🎀 Dev2Creator
+
+<sub><i>little ideas, real creations</i></sub>
 
 <br />
 
