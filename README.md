@@ -8,6 +8,8 @@
 
 <img src="assets/art/stats.svg" alt="51k+ PyPI downloads since June, 6 public projects, 0 accounts required" width="100%" />
 
+<sub align="center">numbers with sources, not screenshots of dashboards 🌷</sub>
+
 <table>
 <tr>
 <td align="center" width="26%" valign="middle">
@@ -57,7 +59,7 @@ me = {
 
 ## Work
 
-<sub>six projects · tap a card for the honest version</sub>
+<sub>six projects · tap a card for the honest version · the bunny supervises 🐰</sub>
 
 | Project | What it does | Why it exists |
 | :--- | :--- | :--- |
@@ -185,6 +187,19 @@ of characters, so output stays stable, reversible, and oddly pretty.
 <sub>the rules I actually keep</sub>
 
 <details>
+<summary><b>Little rituals</b> &nbsp;<sub>the boring habits that make the cute stuff possible</sub></summary>
+
+<br />
+
+- Write the test before the demo, so the demo can be repeated.
+- Commit in small pieces; a messy history is a hard week.
+- One repository, one job. If it needs a second purpose, it needs a second repo.
+- Answer the issue before adding the feature. Someone waited on that.
+- Finish the docs for what exists before dreaming about what does not.
+
+</details>
+
+<details>
 <summary><b>Five opinions, no hedging</b></summary>
 
 <br />
@@ -247,7 +262,11 @@ every frame drawn by hand in this repository.
 
 <sub>if a build saved you an afternoon, a ⭐ is a quiet high-five</sub>
 
-<img src="assets/art/signature.svg" alt="signed Dev2Creator" width="230" />
+<img src="assets/art/workspace.jpg" alt="a quiet purple desk at night: laptop, sleeping cat, cherry blossoms" width="100%" />
+
+<sub>the desk behind all of this — purple light, one sleeping cat, slightly too much tea 🐈‍⬛</sub>
+
+<sub><i>come back any time. the bunny keeps hopping, the kettle is always warm.</i></sub>
 
 <sub><a href="#user-content-top">back to the top</a></sub>
 
