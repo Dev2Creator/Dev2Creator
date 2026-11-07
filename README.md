@@ -8,7 +8,7 @@
 
 *I turn little “what if?” ideas into things you can play with, learn from, and use.*
 
-<a href="#-spawn-point">🌷 about</a>　·　<a href="#-things-ive-crafted">🧸 projects</a>　·　<a href="#-current-quest">🗺️ quest</a>　·　<a href="#-my-little-toolbox">🎀 toolbox</a>　·　<a href="#-thanks-for-visiting">💌 say hi</a>
+<a href="#user-content--spawn-point">🌷 about</a>　·　<a href="#user-content--things-ive-crafted">🧸 projects</a>　·　<a href="#user-content--current-quest">🗺️ quest</a>　·　<a href="#user-content--my-little-toolbox">🎀 toolbox</a>　·　<a href="#user-content--thanks-for-visiting">💌 say hi</a>
 
 </div>
 
@@ -68,6 +68,19 @@ Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool
 ╰───────���───────────────────────────────────────────────╯
 ```
 
+<details>
+<summary><b>💻 open the terminal version</b> &nbsp;<sub>same person, fewer emoji</sub></summary>
+
+<br />
+
+<div align="center">
+
+<img src="assets/art/terminal.svg" alt="terminal: whoami, ls projects, cat motto" width="560" />
+
+</div>
+
+</details>
+
 > 🌼 **My build rule:** one useful thing, built well, beats a giant pile of unfinished blocks. Start small, test early, keep it readable, and write down what actually works.
 
 ## 🧸 Things I’ve crafted
@@ -83,6 +96,52 @@ Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool
 | 🦋 [**irl-besty**](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher | Security can be playful *and* useful. |
 | 🌸 [**TransPower**](https://github.com/Dev2Creator/TransPower-v1.7) | Offline AI companion | Useful software, without shipping your life to a server. |
 
+<details>
+<summary>🎮 <b>py3dgame</b> &nbsp;<sub>the one with the software renderer</sub></summary>
+
+<br />
+
+A 3D engine where the camera, the geometry pipeline and the rasteriser are plain
+Python, so nothing hides behind a graphics driver.
+
+- **0.6 today:** software rasteriser, scene documents that round-trip through JSON, preview server, optional provider-neutral AI runtime
+- **Next blocks:** shadow maps, a real texture pipeline, tone mapping
+- **Rule:** if it is not finished, it is not in the docs
+
+</details>
+
+<details>
+<summary>🌸 <b>TransPower</b> &nbsp;<sub>offline, on purpose</sub></summary>
+
+<br />
+
+A local AI companion with a quantised ONNX model (SmolLM-135M) and a warm
+personality, running entirely on your own machine. No account, no upload, no
+"sign in to continue".
+
+</details>
+
+<details>
+<summary>🦋 <b>irl-besty</b> &nbsp;<sub>a cipher you can look at</sub></summary>
+
+<br />
+
+Password-seeded emoji encryption: the same password always unlocks the same biome
+of characters, so the output is stable, reversible, and strangely pretty.
+
+</details>
+
+<details>
+<summary>🐈 <b>the terminal trio</b> &nbsp;<sub>cutie-os · IRL-WISDOM · IRL-</sub></summary>
+
+<br />
+
+- **cutie-os** makes a shell feel like a kind room.
+- **IRL-WISDOM** prints one useful thought before the day starts.
+- **IRL-** installs things without sending you off to read a wiki page.
+
+</details>
+
 ## 🗺️ Current quest
 
 - **Main quest:** building **py3dgame**, a Python 3D engine with a software rasteriser, scene documents, a preview server, and an optional provider-neutral AI runtime.
@@ -90,7 +149,19 @@ Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool
 - **Big dream:** a scene editor that edits the same JSON the engine already loads.
 - **World setting:** offline-first. My projects should still work when the internet portal is closed. 🌙
 
+<div align="center">
+
+<img src="assets/art/status.svg" alt="status: building py3dgame 0.6, offline first" width="440" />
+
+</div>
+
 ### 📜 Quest log
+
+<div align="center">
+
+<img src="assets/art/progress.svg" alt="how far the roadmap has come" width="500" />
+
+</div>
 
 - [x] **py3dgame 0.6** — software rasteriser, scene documents, preview server
 - [ ] **py3dgame 0.7** — shadow maps, texture pipeline, tone mapping
@@ -142,6 +213,23 @@ Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool
 
 </details>
 
+<details>
+<summary><b>🎁 psst, click me</b> &nbsp;<sub>a tiny easter egg</sub></summary>
+
+<br />
+
+<div align="center">
+
+You found it. The bunny was only pretending to work.
+<br /><br />
+Run <code>python tools_make_bunny.py</code> and he hops again: 20 frames, no dependencies.
+<br /><br />
+🌸 <i>Thanks for being curious. That is the whole hobby.</i> 🌸
+
+</div>
+
+</details>
+
 <div align="center" id="thanks-for-visiting">
 
 <img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="80%" />
@@ -151,6 +239,8 @@ Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool
 If a build saved you an afternoon, a ⭐ is a lovely little high-five. If you have an idea, question, or kind hello, my [portfolio](https://dev2creator-portfolio.vercel.app/) is always open. 🌷
 
 **Stay curious. Keep crafting. Be kind to yourself.** 🩷
+
+<img src="assets/art/signature.svg" alt="signed Dev2Creator" width="240" />
 
 <sub>Fan-made profile styling inspired by block-building games; not affiliated with or endorsed by Mojang or Microsoft.</sub>
 

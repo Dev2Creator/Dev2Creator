@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="196" viewBox="0 0 620 196" role="img" aria-label="a terminal showing whoami">
+  <rect x="1" y="1" width="618" height="194" rx="14" fill="#2b2233" stroke="#4a3a56"/>
+  <rect x="1" y="1" width="618" height="30" rx="14" fill="#3a2f45"/>
+  <rect x="1" y="20" width="618" height="11" fill="#3a2f45"/>
+  <circle cx="24" cy="16" r="5" fill="#f38ba0"/><circle cx="42" cy="16" r="5" fill="#f9d7a0"/><circle cx="60" cy="16" r="5" fill="#9ee6c8"/>
+  <text x="309" y="20" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#b9a9c6">dev2creator@github: ~</text>
+  <text x="26" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8fe3c8" opacity="0">$ whoami<animate attributeName="opacity" values="0;1" begin="0s" dur="0.25s" fill="freeze"/></text>
+  <text x="26" y="94" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#e8e0f2" opacity="0">dev2creator — small tools, honest docs<animate attributeName="opacity" values="0;1" begin="0.35s" dur="0.3s" fill="freeze"/></text>
+  <text x="26" y="122" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8fe3c8" opacity="0">$ ls projects/<animate attributeName="opacity" values="0;1" begin="1.1s" dur="0.25s" fill="freeze"/></text>
+  <text x="26" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#e8e0f2" opacity="0">IRL-  cutie-os  py3dgame  IRL-WISDOM  irl-besty  TransPower<animate attributeName="opacity" values="0;1" begin="1.4500000000000002s" dur="0.3s" fill="freeze"/></text>
+  <text x="26" y="170" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8fe3c8" opacity="0">$ cat motto.txt<animate attributeName="opacity" values="0;1" begin="2.3s" dur="0.25s" fill="freeze"/></text>
+  <text x="26" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#e8e0f2" opacity="0">"Imagine. Build. Experiment."<animate attributeName="opacity" values="0;1" begin="2.65s" dur="0.3s" fill="freeze"/></text>
+  <rect x="26" y="162" width="8" height="14" fill="#8fe3c8">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

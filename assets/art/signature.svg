@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="90" viewBox="0 0 300 90" role="img" aria-label="signed Dev2Creator">
+  <path d="M18 62c14-26 22-38 30-38 7 0 6 12-2 24-9 13-22 22-28 22-5 0-4-7 2-13 8-9 22-16 34-16"
+        fill="none" stroke="#d9608c" stroke-width="3" stroke-linecap="round"
+        stroke-dasharray="240" stroke-dashoffset="240">
+    <animate attributeName="stroke-dashoffset" values="240;0" dur="2.6s" fill="freeze"/>
+  </path>
+  <path d="M96 58c10-22 20-32 27-32 6 0 5 10-1 20" fill="none" stroke="#8b6cd9" stroke-width="3" stroke-linecap="round"
+        stroke-dasharray="120" stroke-dashoffset="120">
+    <animate attributeName="stroke-dashoffset" values="120;0" dur="2.6s" begin="0.8s" fill="freeze"/>
+  </path>
+  <text x="132" y="62" font-family="Georgia,serif" font-size="22" fill="#7b5f7f" opacity="0">
+    Dev2Creator
+    <animate attributeName="opacity" values="0;1" begin="1.6s" dur="1s" fill="freeze"/>
+  </text>
+  <path d="M240 34l1.8 4.6 4.6 1.8-4.6 1.8-1.8 4.6-1.8-4.6-4.6-1.8 4.6-1.8z" fill="#f3a5c0">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+</svg>

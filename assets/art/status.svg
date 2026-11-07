@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="112" viewBox="0 0 460 112" role="img" aria-label="status card">
+  <defs>
+    <linearGradient id="c" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffafc"/><stop offset="1" stop-color="#f7f1fb"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="458" height="110" rx="16" fill="url(#c)" stroke="#f0cede" stroke-width="2"/>
+  <circle cx="54" cy="56" r="30" fill="#fbe3ee" stroke="#f2b8d0" stroke-width="2"/>
+  <text x="54" y="66" text-anchor="middle" font-size="26">🐰</text>
+  <circle cx="76" cy="76" r="7" fill="#7fd9a8" stroke="#ffffff" stroke-width="2">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="102" y="42" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#3a2c44">Dev2Creator</text>
+  <text x="102" y="66" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#7b6a86">building py3dgame 0.6 · offline first</text>
+  <text x="102" y="88" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#a291a8">Python · AI · game engines · developer tools</text>
+  <g>
+    <rect x="366" y="34" width="70" height="8" rx="4" fill="#f4d9e6"/>
+    <rect x="366" y="34" width="0" height="8" rx="4" fill="#e88bb0"><animate attributeName="width" values="0;58" dur="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="366" y="52" width="70" height="8" rx="4" fill="#e2dcf6"/>
+    <rect x="366" y="52" width="0" height="8" rx="4" fill="#9b86dd"><animate attributeName="width" values="0;40" dur="3.1s" repeatCount="indefinite"/></rect>
+    <rect x="366" y="70" width="70" height="8" rx="4" fill="#d8ece6"/>
+    <rect x="366" y="70" width="0" height="8" rx="4" fill="#6fc7ab"><animate attributeName="width" values="0;26" dur="2.7s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
