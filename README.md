@@ -17,6 +17,14 @@ Six projects live here. Each does one job, keeps its dependencies short, and sti
 runs with the network unplugged. The documentation describes what works today, not
 what I hope will work next month. When something is unfinished, the README says so.
 
+<div align="center">
+
+<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="96" />
+
+<sub>the mascot, drawn frame by frame in this repository</sub>
+
+</div>
+
 ```python
 me = {
     "alias": "Dev2Creator",
