@@ -20,11 +20,9 @@
 
 ### 🐰 a note from the bunny
 
-<img src="assets/art/bunny-quotes-v2.svg" alt="A cute quote carousel with 12 little reminders about creativity, coding, and being kind to yourself." width="100%" />
+<img src="assets/art/bunny-quotes-v3.svg" alt="A cute quote carousel with 12 little reminders about creativity, coding, and being kind to yourself." width="100%" />
 
 <sub>🌸 little words, lots of love 🌸</sub>
-
-<sub><i>polite to machines · kind to people</i></sub>
 
 </td>
 <td align="center" valign="middle">
@@ -80,23 +78,22 @@ Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool
 | :--- | :--- | :--- |
 | 🌱 [**IRL-**](https://github.com/Dev2Creator/IRL-) | Universal package installer | Installing things shouldn’t need a wiki quest. |
 | 🐈 [**cutie-os**](https://github.com/Dev2Creator/cutie-os) | Wholesome terminal environment | The terminal can be a kind place. |
-| 🎮 [**py3dgame**](https://github.com/Dev2Creator/py3dgame) | Python-native game library: window, fixed-timestep loop, input, scene graph, software 2D renderer, **55 tests** | I wanted to understand how a renderer works, block by block. The 3D stages come after the 2D one is boring and reliable. |
+| 🎮 [**py3dgame**](https://github.com/Dev2Creator/py3dgame) | 3D game development in Python | I wanted to understand how a renderer works, block by block. |
 | 🗿 [**IRL-WISDOM**](https://github.com/Dev2Creator/IRL-WISDOM) | Wisdom-powered terminal CLI | A tiny bit of perspective before the day’s adventure. |
 | 🦋 [**irl-besty**](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher | Security can be playful *and* useful. |
 | 🌸 [**TransPower**](https://github.com/Dev2Creator/TransPower-v1.7) | Offline AI companion | Useful software, without shipping your life to a server. |
 
 ## 🗺️ Current quest
 
-- **Main quest:** building **py3dgame**. Working today: the window, the fixed-timestep loop, input, a scene graph, and a software 2D renderer with 55 tests. The 3D pipeline is the next block, and the README of that repo says exactly where it stops.
+- **Main quest:** building **py3dgame**, a Python 3D engine with a software rasteriser, scene documents, a preview server, and an optional provider-neutral AI runtime.
 - **Next blocks:** shadow mapping, a real texture pipeline, and tone mapping—the behind-the-scenes details that make a world feel real.
 - **Big dream:** a scene editor that edits the same JSON the engine already loads.
 - **World setting:** offline-first. My projects should still work when the internet portal is closed. 🌙
 
 ### 📜 Quest log
 
-- [x] **py3dgame** — window, fixed-timestep loop, input, scene graph, software 2D renderer, 55 tests
-- [ ] **py3dgame** — maths, cameras and the 3D geometry pipeline *(in development)*
-- [ ] **py3dgame** — rasteriser, materials, lighting and shadow maps *(planned)*
+- [x] **py3dgame 0.6** — software rasteriser, scene documents, preview server
+- [ ] **py3dgame 0.7** — shadow maps, texture pipeline, tone mapping
 - [ ] Build an editor for engine-native scene documents
 - [ ] Ship one small terminal tool each month; little builds deserve to leave the crafting table
 
