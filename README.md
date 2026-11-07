@@ -2,7 +2,7 @@
 
 <img src="assets/art/hero.svg" alt="Dev2Creator · little ideas, real creations" width="100%" />
 
-<a href="#user-content--about"><code>about</code></a>　·　<a href="#user-content--work"><code>work</code></a>　·　<a href="#user-content--now"><code>now</code></a>　·　<a href="#user-content--roadmap"><code>roadmap</code></a>　·　<a href="#user-content--stack"><code>stack</code></a>　·　<a href="#user-content--numbers"><code>numbers</code></a>
+<a href="#user-content-about"><code>about</code></a>　·　<a href="#user-content-work"><code>work</code></a>　·　<a href="#user-content-now"><code>now</code></a>　·　<a href="#user-content-roadmap"><code>roadmap</code></a>　·　<a href="#user-content-stack"><code>stack</code></a>　·　<a href="#user-content-numbers"><code>numbers</code></a>
 
 </div>
 
