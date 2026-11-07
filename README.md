@@ -6,10 +6,6 @@
 
 </div>
 
-<img src="assets/art/stats.svg" alt="51k+ PyPI downloads since June, 6 public projects, 0 accounts required" width="100%" />
-
-<sub align="center">numbers with sources, not screenshots of dashboards 🌷</sub>
-
 <table>
 <tr>
 <td align="center" width="26%" valign="middle">
@@ -33,6 +29,10 @@
 </td>
 </tr>
 </table>
+
+<img src="assets/art/stats.svg" alt="51k+ PyPI downloads since June, 6 public projects, 0 accounts required" width="100%" />
+
+<sub align="center">numbers with sources, not screenshots of dashboards 🌷</sub>
 
 <img src="assets/art/bunny-rule.svg" alt="a tiny bunny hopping along a dotted line" width="100%" />
 
