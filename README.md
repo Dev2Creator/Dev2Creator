@@ -8,7 +8,7 @@
 
 *I turn little “what if?” ideas into things you can play with, learn from, and use.*
 
-<a href="#user-content--spawn-point">🌷 about</a>　·　<a href="#user-content--things-ive-crafted">🧸 projects</a>　·　<a href="#user-content--current-quest">🗺️ quest</a>　·　<a href="#user-content--my-little-toolbox">🎀 toolbox</a>　·　<a href="#user-content--thanks-for-visiting">💌 say hi</a>
+<a href="#user-content--spawn-point">🌷 about</a>　·　<a href="#user-content--things-ive-crafted">🧸 projects</a>　·　<a href="#user-content--current-quest">🗺️ quest</a>　·　<a href="#user-content--my-little-toolbox">🎀 toolbox</a>　·　<a href="#user-content-thanks-for-visiting">💌 say hi</a>
 
 </div>
 
