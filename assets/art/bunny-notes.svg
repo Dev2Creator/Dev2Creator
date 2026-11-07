@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="118" viewBox="0 0 1000 118" role="img" aria-label="little notes from the bunny">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfe"/><stop offset="1" stop-color="#fbf5fb"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="117" rx="20" fill="url(#card)" stroke="#f2e2ee"/>
+  <text x="500" y="30" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" letter-spacing="3" fill="#bda9c6">A LITTLE BUNNY REMINDER</text>
+  <text x="500" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="19" font-style="italic" fill="#6b5875" opacity="0">small steps still make a lovely journey<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" begin="0.0s" dur="13.2s" repeatCount="indefinite"/></text>
+  <text x="500" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="19" font-style="italic" fill="#6b5875" opacity="0">if it is not documented, it is a rumour<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" begin="2.2s" dur="13.2s" repeatCount="indefinite"/></text>
+  <text x="500" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="19" font-style="italic" fill="#6b5875" opacity="0">one thing, built well, beats ten half-built<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" begin="4.4s" dur="13.2s" repeatCount="indefinite"/></text>
+  <text x="500" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="19" font-style="italic" fill="#6b5875" opacity="0">test first, then the happy dance<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" begin="6.6s" dur="13.2s" repeatCount="indefinite"/></text>
+  <text x="500" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="19" font-style="italic" fill="#6b5875" opacity="0">offline first, always kind to your data<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" begin="8.8s" dur="13.2s" repeatCount="indefinite"/></text>
+  <text x="500" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="19" font-style="italic" fill="#6b5875" opacity="0">the bunny believes in you<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" begin="11.0s" dur="13.2s" repeatCount="indefinite"/></text>
+  <g fill="#f3c3d4">
+    <path d="M472 102c0-4 6-4 6 0 0 4-6 7-6 7s-6-3-6-7c0-4 6-4 6 0z">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M522 102c0-4 6-4 6 0 0 4-6 7-6 7s-6-3-6-7c0-4 6-4 6 0z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

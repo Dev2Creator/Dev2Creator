@@ -34,7 +34,9 @@
 </tr>
 </table>
 
-<img src="assets/art/hairline.svg" alt="" width="100%" />
+<img src="assets/art/bunny-rule.svg" alt="a tiny bunny hopping along a dotted line" width="100%" />
+
+<img src="assets/art/bunny-notes.svg" alt="little notes from the bunny" width="100%" />
 
 ## About
 
@@ -237,6 +239,59 @@ fail loudly, and loud failures can be fixed.
 So each repository here does one thing, documents exactly what works, and says
 plainly what does not. If a feature is not done, it is not in the docs. That rule
 is boring, and it is the only reason these projects still run a year later.
+
+</details>
+
+<details>
+<summary><b>🐰 pet the bunny</b> &nbsp;<sub>go on, he is very soft</sub></summary>
+
+<br />
+
+<div align="center">
+
+*he wiggled his ears. thank you.* 🌸
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🕹️ a tiny guessing game</b> &nbsp;<sub>three questions, answers hidden one click deeper</sub></summary>
+
+<br />
+
+**1. Which project renders 3D in pure Python, no GPU?**
+
+<details>
+<summary>reveal the answer</summary>
+
+<br />
+
+py3dgame — a software rasteriser written from scratch, 0.6 released.
+
+</details>
+
+**2. Which tool turns a password into a field of emoji?**
+
+<details>
+<summary>reveal the answer</summary>
+
+<br />
+
+irl-besty — the same password always unlocks the same biome.
+
+</details>
+
+**3. Which one runs a small language model on your own laptop?**
+
+<details>
+<summary>reveal the answer</summary>
+
+<br />
+
+TransPower — a quantised ONNX SmolLM-135M, offline.
+
+</details>
 
 </details>
 
