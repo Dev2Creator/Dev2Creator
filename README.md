@@ -1,53 +1,21 @@
 <div align="center">
 
-<img src="assets/art/hero.svg" alt="Dev2Creator · little ideas, real creations" width="100%" />
+<img src="assets/art/hero-banner.svg" alt="Dev2Creator — polite to machines, kind to people" width="100%" />
 
-<a href="#user-content-about"><code>about</code></a>　·　<a href="#user-content-work"><code>work</code></a>　·　<a href="#user-content-now"><code>now</code></a>　·　<a href="#user-content-roadmap"><code>roadmap</code></a>　·　<a href="#user-content-stack"><code>stack</code></a>　·　<a href="#user-content-numbers"><code>numbers</code></a>　·　<a href="#user-content-questions"><code>questions</code></a>
+<sub><a href="#user-content-about">about</a>　·　<a href="#user-content-work">work</a>　·　<a href="#user-content-now">now</a>　·　<a href="#user-content-roadmap">roadmap</a>　·　<a href="#user-content-stack">stack</a>　·　<a href="#user-content-numbers">numbers</a>　·　<a href="#user-content-questions">questions</a></sub>
 
 </div>
-
-<table>
-<tr>
-<td align="center" width="26%" valign="middle">
-<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="118" />
-<br /><br />
-<img src="assets/art/bubble.svg" alt="hi, i am the bunny" width="146" />
-</td>
-<td align="left" valign="middle">
-<h3 id="top">Dev2Creator</h3>
-<p><i>I turn quiet "what if" ideas into small things that work.</i></p>
-<p><sub>Python · AI · game engines · developer tools — built offline first, documented honestly.</sub></p>
-<p>
-<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-Dev2Creator-f4cede?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
-<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-e6dcfb?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
-</p>
-<p>
-<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/pypi.svg" alt="PyPI: 51k+ downloads since June" height="24" /></a>
-<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/irlxleet.svg" alt="irlxleet: 5.4k downloads" height="24" /></a>
-<a href="https://www.npmjs.com/package/irlxleet"><img src="assets/badges/npm.svg" alt="npm: irlxleet 1.1k downloads" height="24" /></a>
-</p>
-</td>
-</tr>
-</table>
-
-<img src="assets/art/stats.svg" alt="51k+ PyPI downloads since June, 6 public projects, 0 accounts required" width="100%" />
-
-<sub align="center">numbers with sources, not screenshots of dashboards 🌷</sub>
-
-<img src="assets/art/sticker-strip.svg" alt="a small sticker sheet: bunny, cat, star, blossom" width="100%" />
-
-<img src="assets/art/bunny-notes-v2.svg" alt="little notes from the bunny" width="100%" />
 
 ## About
 
 <sub>a short version, no pitch deck</sub>
 
-I build small software on purpose. Not because big things are wrong, but because
-small things can be finished, explained, and trusted by the person using them.
+I build small software on purpose. Not because big things are wrong, but because a
+small thing can be finished, explained, and trusted by the person using it.
 
-Six projects live here. Each one does a single job, ships with tests and docs that
-match the code, and keeps working with the network unplugged. Nothing asks you to
-make an account. Nothing phones home.
+Six projects live here. Each does one job, keeps its dependencies short, and still
+runs with the network unplugged. The documentation describes what works today, not
+what I hope will work next month. When something is unfinished, the README says so.
 
 ```python
 me = {
@@ -55,157 +23,107 @@ me = {
     "craft": ["Python", "AI", "game engines", "developer tools"],
     "belief": "a small tool that solves one problem well beats a big one that solves none",
     "motto": "Imagine. Build. Experiment.",
-    "status": "shipping in public, one release at a time",
+    "status": "shipping in public, one honest release at a time",
 }
 ```
 
 ## Work
 
-<sub>six projects · tap a card for the honest version · the bunny supervises 🐰</sub>
+<sub>six projects · each with a reason to exist</sub>
 
-| Project | What it does | Why it exists |
-| :--- | :--- | :--- |
-| 🌱 [IRL-](https://github.com/Dev2Creator/IRL-) | Universal package installer | installing things should not need a wiki page |
-| 🐈 [cutie-os](https://github.com/Dev2Creator/cutie-os) | Wholesome terminal environment | the terminal can be a kind place |
-| 🎮 [py3dgame](https://github.com/Dev2Creator/py3dgame) | 3D game development in Python | to actually understand how a renderer works |
-| 🗿 [IRL-WISDOM](https://github.com/Dev2Creator/IRL-WISDOM) | Wisdom-powered terminal CLI | a small nudge before the day starts |
-| 🦋 [irl-besty](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher | encryption that is fun to look at |
-| 🌸 [TransPower](https://github.com/Dev2Creator/TransPower-v1.7) | Offline AI companion | useful software without shipping your life to a server |
+| Project | What it is, and why it exists |
+| :--- | :--- |
+| 🎮 [**py3dgame**](https://github.com/Dev2Creator/py3dgame) | Python-native game library: window, fixed-timestep loop, input, scene graph, software 2D renderer, 55 tests. Built to understand a renderer from the inside. |
+| 🌱 [**IRL-**](https://github.com/Dev2Creator/IRL-) | Universal package installer and developer tool ecosystem, at v2.1.0. Installing software should not require reading a wiki first. |
+| 🌸 [**TransPower**](https://github.com/Dev2Creator/TransPower-v1.7) | Offline-first AI companion running a quantised ONNX model locally. Useful software without shipping your conversations to a server. |
+| 🐈 [**cutie-os**](https://github.com/Dev2Creator/cutie-os) | A terminal environment with better manners. The shell is where the day starts, so it should be a kind place. |
+| 🗿 [**IRL-WISDOM**](https://github.com/Dev2Creator/IRL-WISDOM) | A small CLI that prints one useful thought before you begin. Perspective, delivered without a dashboard. |
+| 🦋 [**irl-besty**](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher and a deliberately chaotic toolchain. Security can be playful without being unserious. |
 
 <details>
-<summary><b>py3dgame</b> — the software renderer &nbsp;<sub>flagship</sub></summary>
+<summary><b>The flagship, in detail</b> — py3dgame</summary>
 
 <br />
 
-Camera, geometry pipeline and rasteriser written in plain Python, so nothing hides
-behind a graphics driver. Scene documents round-trip through JSON. A preview server
-shows the frame while you edit.
+The engine is the project I am slowest about, because a renderer is only worth
+having if you understand every stage of it. The public repository currently
+contains the parts that genuinely work:
 
-- **0.6 today:** software rasteriser, scene documents, preview server, optional provider-neutral AI runtime
-- **Next:** shadow maps, texture pipeline, tone mapping
-- **Rule:** if it is not finished, it is not in the docs
+- a window and a fixed-timestep loop, so updates are reproducible
+- an input layer and a scene graph with parent/child transforms
+- a software 2D renderer, with **55 tests** covering the maths and the pipeline
 
-</details>
-
-<details>
-<summary><b>TransPower</b> — offline, on purpose</summary>
-
-<br />
-
-A local AI companion with a quantised ONNX model (SmolLM-135M) and a warm
-personality. Runs on your machine, without an account, a key, or an upload.
+It is not a finished 3D engine, and the README of the project says so. The next
+stages are public in the roadmap below rather than promised in the description.
 
 </details>
-
-<details>
-<summary><b>irl-besty</b> — a cipher you can look at</summary>
-
-<br />
-
-Password-seeded emoji encryption: the same password always unlocks the same biome
-of characters, so output stays stable, reversible, and oddly pretty.
-
-</details>
-
-<details>
-<summary><b>cutie-os · IRL-WISDOM · IRL-</b> — the terminal trio</summary>
-
-<br />
-
-- **cutie-os** makes a shell feel like a kind room.
-- **IRL-WISDOM** prints one useful thought before the day starts.
-- **IRL-** installs things without sending you off to read a wiki.
-
-</details>
-
-<img src="assets/art/hairline.svg" alt="" width="100%" />
 
 ## Now
 
-<sub>the state of things this week</sub>
+<sub>this week, honestly</sub>
 
-<img src="assets/art/status.svg" alt="status: building py3dgame 0.6, offline first" width="440" />
-
-- **Building** py3dgame, a Python 3D engine with a software rasteriser, scene documents, a preview server, and an optional provider-neutral AI runtime.
-- **Going deeper into** shadow mapping, tone mapping and world streaming — the quiet parts that make an engine feel real.
-- **Believing** offline first. Anything here should still work with the network unplugged.
+- **py3dgame:** hardening the tests around the renderer, then the 3D stage of the pipeline.
+- **Practising:** shadow mapping and tone mapping on small scenes, the unglamorous parts that make an engine feel real.
+- **Reading:** whatever explains an algorithm better than I could, then writing my own version of it.
+- **Not doing:** adding features faster than I can document them.
 
 ## Roadmap
 
-<sub>checked means shipped</sub>
+<sub>status is stated, never implied</sub>
 
-<img src="assets/art/roadmap.svg" alt="progress across the 1.0 roadmap" width="100%" />
-
-- [x] **py3dgame 0.6** — software rasteriser, scene documents, preview server
-- [ ] **py3dgame 0.7** — shadow maps, texture pipeline, tone mapping
-- [ ] An editor for engine-native scene documents
-- [ ] One small terminal tool each month, because small things ship
+| Stage | Status |
+| :--- | :--- |
+| py3dgame: window, loop, input, scene graph, 2D renderer, 55 tests | **shipped in the repo** |
+| py3dgame: maths, cameras, 3D geometry pipeline | **in development** |
+| py3dgame: rasteriser, materials, lighting, shadows | planned |
+| Scene documents that round-trip through JSON, plus a preview server | planned |
+| An editor for those scene documents | planned |
 
 ## Stack
 
-<sub>what I actually reach for</sub>
+<sub>what I actually reach for, in words rather than a badge wall</sub>
 
-<details>
-<summary><b>Languages, tooling and test gear</b></summary>
-
-<br />
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-f4cede?style=flat-square&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-dde7fb?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-e6dcfb?style=flat-square&logo=cplusplus&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-fbf0d4?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-dbeef4?style=flat-square&logo=typescript&logoColor=black)
-
-**Web, tooling, tests**
-
-![React](https://img.shields.io/badge/React-dfF3ef?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-eeeeee?style=flat-square&logo=threedotjs&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-eddffb?style=flat-square&logo=vite&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-f6e6d8?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-fbdede?style=flat-square&logo=git&logoColor=black)
-![pytest](https://img.shields.io/badge/pytest-e4f2e6?style=flat-square&logo=pytest&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-dfEbf5?style=flat-square&logo=onnx&logoColor=black)
-
-</details>
+- **Languages:** Python first, then C and C++ when something needs to be close to the metal, with TypeScript and JavaScript for the web side.
+- **Python tooling:** pytest for everything, `venv` and pinned requirements, packaging through PyPI.
+- **Graphics and AI:** software rendering in plain Python, Three.js when it has to be in a browser, ONNX for local models.
+- **Everyday:** Linux, Git, a terminal, and a text editor with too many tabs open.
 
 ## Numbers
 
-<sub>measured, not estimated</sub>
+<sub>verifiable only, with the source and the period</sub>
 
-| Number | What it counts |
+| Figure | What it means |
 | :--- | :--- |
-| **51k+** | PyPI downloads across the published packages since June |
-| **5.4k** | of those on `irlxleet` alone |
-| **1.1k** | npm downloads for the same tool |
-| **6** | public projects, each with its own reason to exist |
+| **51,604** | PyPI downloads across the published packages from 1 June to 7 November 2026 (pypistats) |
+| **5,451** | of those on `irlxleet` alone, same period |
+| **1,128** | npm downloads for `irlxleet` since it was published in July 2026 (npm registry) |
+| **6** | featured projects on this page, which is not the same as the total public repository count |
 | **0** | accounts, telemetry endpoints, or "sign in to continue" |
-
-<img src="assets/art/hairline.svg" alt="" width="100%" />
 
 ## Questions
 
-<sub>the three I get most, answered properly</sub>
+<sub>the three I am asked most, answered properly</sub>
 
 <details>
-<summary><b>Why so many small tools instead of one big app?</b></summary>
+<summary><b>Why many small tools instead of one large application?</b></summary>
 
 <br />
 
 Because small tools get finished. A tool with one job can be documented, tested and
-trusted in a weekend, and it still works three years later. A big app usually turns
-into a roadmap nobody reads.
+trusted in a weekend, and it still runs three years later. A large application turns
+into a roadmap that nobody reads, including its author.
 
 </details>
 
 <details>
-<summary><b>Does anything here need an account or a server?</b></summary>
+<summary><b>What does offline-first actually mean here?</b></summary>
 
 <br />
 
-No. Everything is local-first and works with the network unplugged. There is no
-telemetry, no sign-in, and no remote call that decides whether the tool runs.
+The core work happens on your machine, with no account and no telemetry, and the
+tools keep working when the network is gone. It does not mean every optional feature
+is air-gapped: anything that fetches data from the internet is described as doing so,
+in the repository's own README rather than in a slogan.
 
 </details>
 
@@ -214,150 +132,50 @@ telemetry, no sign-in, and no remote call that decides whether the tool runs.
 
 <br />
 
-Yes, the licences are in each repository. If you build something with it, I would
-genuinely like to see it, so open an issue with a link.
+Yes. Each repository carries its own licence (most are AGPL-3.0, so check the file
+before you ship). If you build something with it, open an issue with a link, because
+that is genuinely the best part of writing software in public.
 
 </details>
 
 ## Principles
 
-<sub>the rules I actually keep</sub>
+<sub>polite to machines, kind to people</sub>
+
+- **Small tools.** One job per repository, and the smallest dependency list that will do it.
+- **Honest documentation.** If a feature is unfinished, the README says unfinished. Docs describe the code that exists.
+- **Understandable engineering.** Cleverness is a cost. The next reader is usually me in six months.
+- **Useful software.** No account walls, no telemetry, no dark patterns, no feature that exists only for a screenshot.
+- **Little promises.** Bug reports get answers. Releases get notes. Numbers get sources.
+- **Build in public.** The commits, the tests and the mistakes are all visible, in that order.
 
 <details>
-<summary><b>Little rituals</b> &nbsp;<sub>the boring habits that make the cute stuff possible</sub></summary>
+<summary><b>Little rituals</b> — the habits behind the tidy parts</summary>
 
 <br />
 
-- Write the test before the demo, so the demo can be repeated.
-- Commit in small pieces; a messy history is a hard week.
-- One repository, one job. If it needs a second purpose, it needs a second repo.
-- Answer the issue before adding the feature. Someone waited on that.
-- Finish the docs for what exists before dreaming about what does not.
+1. Write the test before the demo, so the demo can be repeated.
+2. Commit in small pieces; a messy history is a hard week.
+3. One repository, one job. A second purpose deserves a second repository.
+4. Answer the issue before adding the feature. Someone waited on that.
+5. Finish the docs for what exists before dreaming about what does not.
 
 </details>
 
-<details>
-<summary><b>Five opinions, no hedging</b></summary>
-
-<br />
-
-| About | My take |
-| :--- | :--- |
-| Frameworks | learn the primitives first, the framework will still be there later |
-| Dependencies | every one of them is a promise someone else has to keep |
-| Documentation | if it is not written down, it does not exist |
-| Speed | measure before optimising, then measure again |
-| Tests | the test is the part of the project that survives |
-
-</details>
-
-<details>
-<summary><b>Little promises</b></summary>
-
-<br />
-
-1. No telemetry, no account, no "sign in to continue".
-2. Docs describe what already works, never what I hope will.
-3. Small dependencies, pinned and explained.
-4. If a release breaks you, an issue gets an answer, not silence.
-
-</details>
-
-<details>
-<summary><b>Why everything stays small</b></summary>
-
-<br />
-
-Big projects fail quietly: the README promises, the code does not. Small projects
-fail loudly, and loud failures can be fixed.
-
-So each repository here does one thing, documents exactly what works, and says
-plainly what does not. If a feature is not done, it is not in the docs. That rule
-is boring, and it is the only reason these projects still run a year later.
-
-</details>
-
-<details>
-<summary><b>🐰 pet the bunny</b> &nbsp;<sub>go on, he is very soft</sub></summary>
-
-<br />
+---
 
 <div align="center">
 
-*he wiggled his ears. thank you.* 🌸
+<img src="assets/art/rule.svg" alt="" width="80%" />
 
-</div>
+<img src="assets/art/workspace.jpg" alt="a quiet purple desk at night: laptop, sleeping cat, cherry blossom branches" width="100%" />
 
-</details>
+<sub>the desk behind all of this — purple light, one sleeping cat, slightly too much tea</sub>
 
-<details>
-<summary><b>🕹️ a tiny guessing game</b> &nbsp;<sub>three questions, answers hidden one click deeper</sub></summary>
+**Thanks for reading this far.**
 
-<br />
+<sub>If a tool here saved you an afternoon, a star is a quiet thank you. If something is broken, an issue is a kindness.</sub>
 
-**1. Which project renders 3D in pure Python, no GPU?**
-
-<details>
-<summary>reveal the answer</summary>
-
-<br />
-
-py3dgame — a software rasteriser written from scratch, 0.6 released.
-
-</details>
-
-**2. Which tool turns a password into a field of emoji?**
-
-<details>
-<summary>reveal the answer</summary>
-
-<br />
-
-irl-besty — the same password always unlocks the same biome.
-
-</details>
-
-**3. Which one runs a small language model on your own laptop?**
-
-<details>
-<summary>reveal the answer</summary>
-
-<br />
-
-TransPower — a quantised ONNX SmolLM-135M, offline.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>🎁 psst — a small easter egg</b></summary>
-
-<br />
-
-You found it. The bunny was only pretending to work.
-
-Run `python tools_make_bunny.py` and he hops again: 20 frames, no dependencies,
-every frame drawn by hand in this repository.
-
-🌸 *Thanks for being curious. That is the whole hobby.* 🌸
-
-</details>
-
-<img src="assets/art/hairline.svg" alt="" width="100%" />
-
-<div align="center">
-
-### Thanks for visiting
-
-<sub>if a build saved you an afternoon, a ⭐ is a quiet high-five</sub>
-
-<img src="assets/art/workspace.jpg" alt="a quiet purple desk at night: laptop, sleeping cat, cherry blossoms" width="100%" />
-
-<sub>the desk behind all of this — purple light, one sleeping cat, slightly too much tea 🐈‍⬛</sub>
-
-<sub><i>come back any time. the bunny keeps hopping, the kettle is always warm.</i></sub>
-
-<sub><a href="#user-content-top">back to the top</a></sub>
+<sub><a href="https://github.com/Dev2Creator">github.com/Dev2Creator</a>　·　<a href="https://dev2creator-portfolio.vercel.app/">portfolio</a>　·　<a href="https://pypi.org/project/irlxleet/">pypi</a>　·　<a href="#user-content-questions">questions</a></sub>
 
 </div>
