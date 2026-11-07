@@ -1,27 +1,58 @@
 <div align="center">
 
-<img src="assets/art/hero-v2.svg" alt="Dev2Creator — polite to machines, kind to people" width="100%" />
+<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="100%" />
 
-<a href="#user-content-about">about</a>　·　<a href="#user-content-work">work</a>　·　<a href="#user-content-now">now</a>　·　<a href="#user-content-roadmap">roadmap</a>　·　<a href="#user-content-numbers">numbers</a>　·　<a href="#user-content-questions">questions</a>
+<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/♡_hello,_I'm-Dev2Creator-ff8fb1?style=for-the-badge&labelColor=fff0f5" alt="Hello, I'm Dev2Creator" /></a>
+
+### ✨ a tiny corner of the internet, built with big dreams ✨
+
+*I turn little “what if?” ideas into things you can play with, learn from, and use.*
+
+<a href="#user-content-about">🌷 about</a>　·　<a href="#user-content-work">🧸 projects</a>　·　<a href="#user-content-now">🗺️ quest</a>　·　<a href="#user-content-stack">🎀 toolbox</a>　·　<a href="#user-content-questions">💌 say hi</a>
 
 </div>
 
-<img src="assets/art/rule.svg" alt="" width="100%" />
-
 <table>
 <tr>
-<td align="center" width="22%" valign="middle">
-<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="86" />
+<td align="center" valign="middle" width="30%">
+
+<img src="assets/bunny.gif" alt="A little animated pixel bunny hopping" width="132" />
+
+### 🐰 a note from the bunny
+
+<img src="assets/art/bunny-quotes-v3.svg" alt="A cute quote carousel with 12 little reminders about creativity, coding, and being kind to yourself." width="100%" />
+
+<sub>🌸 little words, lots of love 🌸</sub>
+
 </td>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 
-**I build small software on purpose.** Not because big things are wrong, but because a small thing can be finished, explained, and trusted by the person using it.
+<img src="assets/art/overworld-banner.svg" alt="A custom pixel-art world with mountains, trees, water, and a crafting hut" width="100%" />
 
-<sub>six projects · one job each · documented honestly · offline first 🐇</sub>
+## ⛏️ Dev2Creator
+
+**Builder of little things with big “what if?” energy.**
+
+`PYTHON`　`AI`　`GAME ENGINES`　`DEV TOOLS`
+
+<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-come_say_hi-ff91b5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-take_a_peek-b28dff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/pypi.svg" alt="PyPI downloads" height="26" /></a>
+<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/irlxleet.svg" alt="irlxleet downloads" height="26" /></a>
+<a href="https://www.npmjs.com/package/irlxleet"><img src="assets/badges/npm.svg" alt="npm downloads" height="26" /></a>
+
+🌱 **Imagine · Build · Experiment · Repeat** 🌱
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="85%" />
+
+</div>
 
 ## About
 
