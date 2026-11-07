@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="168" viewBox="0 0 500 168" role="img" aria-label="a little bunny reminder, one line at a time">
+  <defs>
+    <linearGradient id="q" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdfe"/><stop offset="1" stop-color="#fdf3f8"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="499" height="167" rx="18" fill="url(#q)" stroke="#f3dbe6"/>
+  <text x="250" y="34" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" letter-spacing="2.6" fill="#c2a3b6">A LITTLE BUNNY REMINDER</text>
+  <line x1="150" y1="46" x2="350" y2="46" stroke="#f4e2ec"/>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Small steps still make a lovely journey. 🌷<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="0.0s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">You can build beautiful things, one bug at a time. 🐛<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="1.692s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Curiosity is your cutest superpower. ✨<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="3.385s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Rest is part of the recipe, too. ☁️<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="5.077s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Your next idea might be someone’s favorite. 💡<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="6.769s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Make it work, then make it wonderful. 🎀<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="8.462s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">There is magic in learning how things work. 🪄<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="10.154s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Be proud of the tiny things you finished. 🌼<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="11.846s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">A kind heart and a clever mind go far. 💖<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="13.538s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Every expert was once a beginner. 🌱<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="15.231s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">Keep making room for a little wonder. 🌙<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="16.923s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">You deserve the same kindness you give others. 🩷<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="18.615s" dur="22.0s" repeatCount="indefinite"/></text>
+  <text x="250" y="86" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#6b5875" opacity="0">♡ 12 tiny notes, on a loop ♡<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.012;0.075;0.086;1" begin="20.308s" dur="22.0s" repeatCount="indefinite"/></text>
+  <g fill="#f3c3d4">
+    <path d="M238 124c0-4 6-4 6 0 0 4-6 7-6 7s-6-3-6-7c0-4 6-4 6 0z">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M262 124c0-4 6-4 6 0 0 4-6 7-6 7s-6-3-6-7c0-4 6-4 6 0z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="250" y="150" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#cbb7c4">little words, lots of love</text>
+</svg>
