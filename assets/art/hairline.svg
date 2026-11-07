@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="26" viewBox="0 0 1000 26" role="img" aria-label="separator">
+  <line x1="0" y1="13" x2="452" y2="13" stroke="#efe3ec" stroke-width="1"/>
+  <line x1="548" y1="13" x2="1000" y2="13" stroke="#efe3ec" stroke-width="1"/>
+  <g transform="translate(492 6)">
+    <circle cx="8" cy="7" r="2.2" fill="#e6a9c4"/>
+    <circle cx="8" cy="7" r="5.5" fill="none" stroke="#f4dae7" stroke-width="1">
+      <animate attributeName="r" values="5.5;7.5;5.5" dur="3.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
