@@ -36,7 +36,7 @@
 
 <img src="assets/art/sticker-strip.svg" alt="a small sticker sheet: bunny, cat, star, blossom" width="100%" />
 
-<img src="assets/art/bunny-notes.svg" alt="little notes from the bunny" width="100%" />
+<img src="assets/art/bunny-notes-v2.svg" alt="little notes from the bunny" width="100%" />
 
 ## About
 
