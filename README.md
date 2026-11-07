@@ -1,29 +1,34 @@
 <div align="center">
 
-<img src="assets/art/hero-banner.svg" alt="Dev2Creator — polite to machines, kind to people" width="100%" />
+<img src="assets/art/hero-v2.svg" alt="Dev2Creator — polite to machines, kind to people" width="100%" />
 
-<sub><a href="#user-content-about">about</a>　·　<a href="#user-content-work">work</a>　·　<a href="#user-content-now">now</a>　·　<a href="#user-content-roadmap">roadmap</a>　·　<a href="#user-content-stack">stack</a>　·　<a href="#user-content-numbers">numbers</a>　·　<a href="#user-content-questions">questions</a></sub>
+<a href="#user-content-about">about</a>　·　<a href="#user-content-work">work</a>　·　<a href="#user-content-now">now</a>　·　<a href="#user-content-roadmap">roadmap</a>　·　<a href="#user-content-numbers">numbers</a>　·　<a href="#user-content-questions">questions</a>
 
 </div>
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
+<table>
+<tr>
+<td align="center" width="22%" valign="middle">
+<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="86" />
+</td>
+<td align="left" valign="middle">
+
+**I build small software on purpose.** Not because big things are wrong, but because a small thing can be finished, explained, and trusted by the person using it.
+
+<sub>six projects · one job each · documented honestly · offline first 🐇</sub>
+
+</td>
+</tr>
+</table>
 
 ## About
 
-<sub>a short version, no pitch deck</sub>
-
 I build small software on purpose. Not because big things are wrong, but because a
-small thing can be finished, explained, and trusted by the person using it.
-
-Six projects live here. Each does one job, keeps its dependencies short, and still
-runs with the network unplugged. The documentation describes what works today, not
-what I hope will work next month. When something is unfinished, the README says so.
-
-<div align="center">
-
-<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="96" />
-
-<sub>the mascot, drawn frame by frame in this repository</sub>
-
-</div>
+small thing can be finished, explained, and trusted by the person using it. Six
+projects live here. Each does one job, keeps its dependency list short, and still
+runs with the network unplugged.
 
 ```python
 me = {
@@ -35,36 +40,52 @@ me = {
 }
 ```
 
+<sub>The documentation describes what works today, not what I hope will work next month. When something is unfinished, the README of that project says so.</sub>
+
+<img src="assets/art/sticker-strip.svg" alt="a sticker sheet: bunny, cat, star, blossom" width="100%" />
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
 ## Work
 
-<sub>six projects · each with a reason to exist</sub>
+<sub>six projects, each with a reason to exist</sub>
 
-| Project | What it is, and why it exists |
-| :--- | :--- |
-| 🎮 [**py3dgame**](https://github.com/Dev2Creator/py3dgame) | Python-native game library: window, fixed-timestep loop, input, scene graph, software 2D renderer, 55 tests. Built to understand a renderer from the inside. |
-| 🌱 [**IRL-**](https://github.com/Dev2Creator/IRL-) | Universal package installer and developer tool ecosystem, at v2.1.0. Installing software should not require reading a wiki first. |
-| 🌸 [**TransPower**](https://github.com/Dev2Creator/TransPower-v1.7) | Offline-first AI companion running a quantised ONNX model locally. Useful software without shipping your conversations to a server. |
-| 🐈 [**cutie-os**](https://github.com/Dev2Creator/cutie-os) | A terminal environment with better manners. The shell is where the day starts, so it should be a kind place. |
-| 🗿 [**IRL-WISDOM**](https://github.com/Dev2Creator/IRL-WISDOM) | A small CLI that prints one useful thought before you begin. Perspective, delivered without a dashboard. |
-| 🦋 [**irl-besty**](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher and a deliberately chaotic toolchain. Security can be playful without being unserious. |
+<img src="assets/art/flagship.svg" alt="py3dgame: a Python-native game library built to be understood" width="100%" />
 
-<details>
-<summary><b>The flagship, in detail</b> — py3dgame</summary>
+The engine is the project I am slowest about, because a renderer is only worth
+having if you understand every stage of it. The repository currently contains the
+parts that genuinely work: a window and fixed-timestep loop, an input layer, a scene
+graph with parent and child transforms, and a software 2D renderer covered by
+**55 tests**. It is not a finished 3D engine, and its own README says so.
+
+[Read py3dgame →](https://github.com/Dev2Creator/py3dgame)
 
 <br />
 
-The engine is the project I am slowest about, because a renderer is only worth
-having if you understand every stage of it. The public repository currently
-contains the parts that genuinely work:
+<table>
+<tr>
+<td align="center" width="18%" valign="middle">🌱</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/IRL-">IRL-</a></b> · v2.1.0<br /><sub>Universal package installer and developer tool ecosystem. Installing software should not require reading a wiki first.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🌸</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/TransPower-v1.7">TransPower</a></b><br /><sub>Offline-first AI companion running a quantised ONNX model locally. Useful software without sending your conversations to a server.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🐈</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/cutie-os">cutie-os</a></b><br /><sub>A terminal environment with better manners. The shell is where the day starts, so it should be a kind place.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🗿</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/IRL-WISDOM">IRL-WISDOM</a></b><br /><sub>A small CLI that prints one useful thought before you begin. Perspective, without a dashboard.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🦋</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/irl-besty">irl-besty</a></b><br /><sub>Password-seeded emoji cipher and a deliberately chaotic toolchain. Security can be playful without being unserious.</sub></td>
+</tr>
+</table>
 
-- a window and a fixed-timestep loop, so updates are reproducible
-- an input layer and a scene graph with parent/child transforms
-- a software 2D renderer, with **55 tests** covering the maths and the pipeline
-
-It is not a finished 3D engine, and the README of the project says so. The next
-stages are public in the roadmap below rather than promised in the description.
-
-</details>
+<img src="assets/art/rule.svg" alt="" width="100%" />
 
 ## Now
 
@@ -79,13 +100,55 @@ stages are public in the roadmap below rather than promised in the description.
 
 <sub>status is stated, never implied</sub>
 
-| Stage | Status |
+| Stage | Where it stands |
 | :--- | :--- |
-| py3dgame: window, loop, input, scene graph, 2D renderer, 55 tests | **shipped in the repo** |
-| py3dgame: maths, cameras, 3D geometry pipeline | **in development** |
-| py3dgame: rasteriser, materials, lighting, shadows | planned |
-| Scene documents that round-trip through JSON, plus a preview server | planned |
-| An editor for those scene documents | planned |
+| window · loop · input · scene graph · software 2D renderer · 55 tests | `▰▰▰▰▰▰▰▰` shipped in the repo |
+| maths · cameras · 3D geometry pipeline | `▰▰▰▰▱▱▱▱` in development |
+| rasteriser · materials · lighting · shadows | `▱▱▱▱▱▱▱▱` planned |
+| scene documents in JSON · preview server | `▱▱▱▱▱▱▱▱` planned |
+| an editor for those scene documents | `▱▱▱▱▱▱▱▱` planned |
+
+<sub>the bars show how far along a stage is meant to be, not a measured percentage</sub>
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
+## Numbers
+
+<sub>verifiable only, with the source and the period</sub>
+
+<div align="center">
+
+### 51,604
+
+<sub>PyPI downloads across the published packages · 1 June to 7 November 2026 · pypistats</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 5,451
+
+<sub>of those on `irlxleet` alone · same period</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 1,128
+
+<sub>npm downloads for `irlxleet` since publication in July 2026 · npm registry</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 6
+
+<sub>featured projects on this page, which is not the same as the total public repository count</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 0
+
+<sub>accounts, telemetry endpoints, or "sign in to continue"</sub>
+
+</div>
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
 
 ## Stack
 
@@ -96,17 +159,7 @@ stages are public in the roadmap below rather than promised in the description.
 - **Graphics and AI:** software rendering in plain Python, Three.js when it has to be in a browser, ONNX for local models.
 - **Everyday:** Linux, Git, a terminal, and a text editor with too many tabs open.
 
-## Numbers
-
-<sub>verifiable only, with the source and the period</sub>
-
-| Figure | What it means |
-| :--- | :--- |
-| **51,604** | PyPI downloads across the published packages from 1 June to 7 November 2026 (pypistats) |
-| **5,451** | of those on `irlxleet` alone, same period |
-| **1,128** | npm downloads for `irlxleet` since it was published in July 2026 (npm registry) |
-| **6** | featured projects on this page, which is not the same as the total public repository count |
-| **0** | accounts, telemetry endpoints, or "sign in to continue" |
+<img src="assets/art/rule.svg" alt="" width="100%" />
 
 ## Questions
 
@@ -119,7 +172,7 @@ stages are public in the roadmap below rather than promised in the description.
 
 Because small tools get finished. A tool with one job can be documented, tested and
 trusted in a weekend, and it still runs three years later. A large application turns
-into a roadmap that nobody reads, including its author.
+into a roadmap nobody reads, including its author.
 
 </details>
 
@@ -131,7 +184,7 @@ into a roadmap that nobody reads, including its author.
 The core work happens on your machine, with no account and no telemetry, and the
 tools keep working when the network is gone. It does not mean every optional feature
 is air-gapped: anything that fetches data from the internet is described as doing so,
-in the repository's own README rather than in a slogan.
+in that project's own README rather than in a slogan.
 
 </details>
 
@@ -150,7 +203,7 @@ that is genuinely the best part of writing software in public.
 
 <sub>polite to machines, kind to people</sub>
 
-- **Small tools.** One job per repository, and the smallest dependency list that will do it.
+- **Small tools.** One job per repository, and the shortest dependency list that will do it.
 - **Honest documentation.** If a feature is unfinished, the README says unfinished. Docs describe the code that exists.
 - **Understandable engineering.** Cleverness is a cost. The next reader is usually me in six months.
 - **Useful software.** No account walls, no telemetry, no dark patterns, no feature that exists only for a screenshot.
@@ -170,20 +223,20 @@ that is genuinely the best part of writing software in public.
 
 </details>
 
----
+<img src="assets/art/rule.svg" alt="" width="100%" />
 
 <div align="center">
-
-<img src="assets/art/rule.svg" alt="" width="80%" />
 
 <img src="assets/art/workspace.jpg" alt="a quiet purple desk at night: laptop, sleeping cat, cherry blossom branches" width="100%" />
 
 <sub>the desk behind all of this — purple light, one sleeping cat, slightly too much tea</sub>
 
+<img src="assets/bunny.gif" alt="the bunny, still hopping" width="72" />
+
 **Thanks for reading this far.**
 
-<sub>If a tool here saved you an afternoon, a star is a quiet thank you. If something is broken, an issue is a kindness.</sub>
+<sub>If a tool here saved you an afternoon, a star is a quiet thank you. If something is broken, an issue is a kindness. Come back any time, the kettle stays warm.</sub>
 
-<sub><a href="https://github.com/Dev2Creator">github.com/Dev2Creator</a>　·　<a href="https://dev2creator-portfolio.vercel.app/">portfolio</a>　·　<a href="https://pypi.org/project/irlxleet/">pypi</a>　·　<a href="#user-content-questions">questions</a></sub>
+<sub><a href="https://github.com/Dev2Creator">github.com/Dev2Creator</a>　·　<a href="https://dev2creator-portfolio.vercel.app/">portfolio</a>　·　<a href="https://pypi.org/project/irlxleet/">pypi</a>　·　<a href="#user-content-about">about</a></sub>
 
 </div>
