@@ -2,7 +2,7 @@
 
 <img src="assets/art/hero.svg" alt="Dev2Creator · little ideas, real creations" width="100%" />
 
-<a href="#user-content-about"><code>about</code></a>　·　<a href="#user-content-work"><code>work</code></a>　·　<a href="#user-content-now"><code>now</code></a>　·　<a href="#user-content-roadmap"><code>roadmap</code></a>　·　<a href="#user-content-stack"><code>stack</code></a>　·　<a href="#user-content-numbers"><code>numbers</code></a>
+<a href="#user-content-about"><code>about</code></a>　·　<a href="#user-content-work"><code>work</code></a>　·　<a href="#user-content-now"><code>now</code></a>　·　<a href="#user-content-roadmap"><code>roadmap</code></a>　·　<a href="#user-content-stack"><code>stack</code></a>　·　<a href="#user-content-numbers"><code>numbers</code></a>　·　<a href="#user-content-questions"><code>questions</code></a>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <sub align="center">numbers with sources, not screenshots of dashboards 🌷</sub>
 
-<img src="assets/art/bunny-rule.svg" alt="a tiny bunny hopping along a dotted line" width="100%" />
+<img src="assets/art/sticker-strip.svg" alt="a small sticker sheet: bunny, cat, star, blossom" width="100%" />
 
 <img src="assets/art/bunny-notes.svg" alt="little notes from the bunny" width="100%" />
 
@@ -183,6 +183,41 @@ of characters, so output stays stable, reversible, and oddly pretty.
 | **0** | accounts, telemetry endpoints, or "sign in to continue" |
 
 <img src="assets/art/hairline.svg" alt="" width="100%" />
+
+## Questions
+
+<sub>the three I get most, answered properly</sub>
+
+<details>
+<summary><b>Why so many small tools instead of one big app?</b></summary>
+
+<br />
+
+Because small tools get finished. A tool with one job can be documented, tested and
+trusted in a weekend, and it still works three years later. A big app usually turns
+into a roadmap nobody reads.
+
+</details>
+
+<details>
+<summary><b>Does anything here need an account or a server?</b></summary>
+
+<br />
+
+No. Everything is local-first and works with the network unplugged. There is no
+telemetry, no sign-in, and no remote call that decides whether the tool runs.
+
+</details>
+
+<details>
+<summary><b>Can I use this code in my own project?</b></summary>
+
+<br />
+
+Yes, the licences are in each repository. If you build something with it, I would
+genuinely like to see it, so open an issue with a link.
+
+</details>
 
 ## Principles
 
