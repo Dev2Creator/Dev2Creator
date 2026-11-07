@@ -1,157 +1,242 @@
 <div align="center">
 
-<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="100%" />
+<img src="assets/art/hero-v2.svg" alt="Dev2Creator — polite to machines, kind to people" width="100%" />
 
-<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/♡_hello,_I'm-Dev2Creator-ff8fb1?style=for-the-badge&labelColor=fff0f5" alt="Hello, I'm Dev2Creator" /></a>
-
-### ✨ a tiny corner of the internet, built with big dreams ✨
-
-*I turn little “what if?” ideas into things you can play with, learn from, and use.*
-
-<a href="#-spawn-point">🌷 about</a>　·　<a href="#-things-ive-crafted">🧸 projects</a>　·　<a href="#-current-quest">🗺️ quest</a>　·　<a href="#-my-little-toolbox">🎀 toolbox</a>　·　<a href="#-thanks-for-visiting">💌 say hi</a>
+<a href="#user-content-about">about</a>　·　<a href="#user-content-work">work</a>　·　<a href="#user-content-now">now</a>　·　<a href="#user-content-roadmap">roadmap</a>　·　<a href="#user-content-numbers">numbers</a>　·　<a href="#user-content-questions">questions</a>
 
 </div>
 
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
 <table>
 <tr>
-<td align="center" valign="middle" width="30%">
-
-<img src="assets/bunny.gif" alt="A little animated pixel bunny hopping" width="132" />
-
-### 🐰 a note from the bunny
-
-<img src="assets/art/bunny-quotes-v3.svg" alt="A cute quote carousel with 12 little reminders about creativity, coding, and being kind to yourself." width="100%" />
-
-<sub>🌸 little words, lots of love 🌸</sub>
-
+<td align="center" width="22%" valign="middle">
+<img src="assets/bunny.gif" alt="a small pixel bunny hopping" width="86" />
 </td>
-<td align="center" valign="middle">
+<td align="left" valign="middle">
 
-<img src="assets/art/overworld-banner.svg" alt="A custom pixel-art world with mountains, trees, water, and a crafting hut" width="100%" />
+**I build small software on purpose.** Not because big things are wrong, but because a small thing can be finished, explained, and trusted by the person using it.
 
-## ⛏️ Dev2Creator
-
-**Builder of little things with big “what if?” energy.**
-
-`PYTHON`　`AI`　`GAME ENGINES`　`DEV TOOLS`
-
-<a href="https://github.com/Dev2Creator"><img src="https://img.shields.io/badge/GitHub-come_say_hi-ff91b5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://dev2creator-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-take_a_peek-b28dff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/pypi.svg" alt="PyPI downloads" height="26" /></a>
-<a href="https://pypi.org/project/irlxleet/"><img src="assets/badges/irlxleet.svg" alt="irlxleet downloads" height="26" /></a>
-<a href="https://www.npmjs.com/package/irlxleet"><img src="assets/badges/npm.svg" alt="npm downloads" height="26" /></a>
-
-🌱 **Imagine · Build · Experiment · Repeat** 🌱
+<sub>six projects · one job each · documented honestly · offline first 🐇</sub>
 
 </td>
 </tr>
 </table>
 
+## About
+
+I build small software on purpose. Not because big things are wrong, but because a
+small thing can be finished, explained, and trusted by the person using it. Six
+projects live here. Each does one job, keeps its dependency list short, and still
+runs with the network unplugged.
+
+```python
+me = {
+    "alias": "Dev2Creator",
+    "craft": ["Python", "AI", "game engines", "developer tools"],
+    "belief": "a small tool that solves one problem well beats a big one that solves none",
+    "motto": "Imagine. Build. Experiment.",
+    "status": "shipping in public, one honest release at a time",
+}
+```
+
+<sub>The documentation describes what works today, not what I hope will work next month. When something is unfinished, the README of that project says so.</sub>
+
+<img src="assets/art/sticker-strip.svg" alt="a sticker sheet: bunny, cat, star, blossom" width="100%" />
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
+## Work
+
+<sub>six projects, each with a reason to exist</sub>
+
+<img src="assets/art/flagship.svg" alt="py3dgame: a Python-native game library built to be understood" width="100%" />
+
+The engine is the project I am slowest about, because a renderer is only worth
+having if you understand every stage of it. The repository currently contains the
+parts that genuinely work: a window and fixed-timestep loop, an input layer, a scene
+graph with parent and child transforms, and a software 2D renderer covered by
+**55 tests**. It is not a finished 3D engine, and its own README says so.
+
+[Read py3dgame →](https://github.com/Dev2Creator/py3dgame)
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="18%" valign="middle">🌱</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/IRL-">IRL-</a></b> · v2.1.0<br /><sub>Universal package installer and developer tool ecosystem. Installing software should not require reading a wiki first.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🌸</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/TransPower-v1.7">TransPower</a></b><br /><sub>Offline-first AI companion running a quantised ONNX model locally. Useful software without sending your conversations to a server.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🐈</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/cutie-os">cutie-os</a></b><br /><sub>A terminal environment with better manners. The shell is where the day starts, so it should be a kind place.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🗿</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/IRL-WISDOM">IRL-WISDOM</a></b><br /><sub>A small CLI that prints one useful thought before you begin. Perspective, without a dashboard.</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle">🦋</td>
+<td align="left" valign="middle"><b><a href="https://github.com/Dev2Creator/irl-besty">irl-besty</a></b><br /><sub>Password-seeded emoji cipher and a deliberately chaotic toolchain. Security can be playful without being unserious.</sub></td>
+</tr>
+</table>
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
+## Now
+
+<sub>this week, honestly</sub>
+
+- **py3dgame:** hardening the tests around the renderer, then the 3D stage of the pipeline.
+- **Practising:** shadow mapping and tone mapping on small scenes, the unglamorous parts that make an engine feel real.
+- **Reading:** whatever explains an algorithm better than I could, then writing my own version of it.
+- **Not doing:** adding features faster than I can document them.
+
+## Roadmap
+
+<sub>status is stated, never implied</sub>
+
+| Stage | Where it stands |
+| :--- | :--- |
+| window · loop · input · scene graph · software 2D renderer · 55 tests | `▰▰▰▰▰▰▰▰` shipped in the repo |
+| maths · cameras · 3D geometry pipeline | `▰▰▰▰▱▱▱▱` in development |
+| rasteriser · materials · lighting · shadows | `▱▱▱▱▱▱▱▱` planned |
+| scene documents in JSON · preview server | `▱▱▱▱▱▱▱▱` planned |
+| an editor for those scene documents | `▱▱▱▱▱▱▱▱` planned |
+
+<sub>the bars show how far along a stage is meant to be, not a measured percentage</sub>
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
+## Numbers
+
+<sub>verifiable only, with the source and the period</sub>
+
 <div align="center">
 
-<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="85%" />
+### 51,604
+
+<sub>PyPI downloads across the published packages · 1 June to 7 November 2026 · pypistats</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 5,451
+
+<sub>of those on `irlxleet` alone · same period</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 1,128
+
+<sub>npm downloads for `irlxleet` since publication in July 2026 · npm registry</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 6
+
+<sub>featured projects on this page, which is not the same as the total public repository count</sub>
+
+<img src="assets/art/rule.svg" alt="" width="60%" />
+
+### 0
+
+<sub>accounts, telemetry endpoints, or "sign in to continue"</sub>
 
 </div>
 
-## 🌷 Spawn point
+<img src="assets/art/rule.svg" alt="" width="100%" />
 
-Hey, I’m **Dev2Creator**! I love taking an idea from *“wouldn’t it be cool if…”* to a small, working thing you can actually use. Around here you’ll find carefully crafted builds, readable code, playful experiments, and lots of curiosity. ☁️
+## Stack
 
-```text
-╭─────────────── ✿ little player card ✿ ───────────────╮
-│  name       Dev2Creator                              │
-│  class      builder · tinkerer · curious human       │
-│  favorite   Python · AI · game engines · dev tools    │
-│  play style imagine → build → experiment → repeat    │
-│  current XP shipping small things with love          │
-╰───────���───────────────────────────────────────────────╯
-```
+<sub>what I actually reach for, in words rather than a badge wall</sub>
 
-> 🌼 **My build rule:** one useful thing, built well, beats a giant pile of unfinished blocks. Start small, test early, keep it readable, and write down what actually works.
+- **Languages:** Python first, then C and C++ when something needs to be close to the metal, with TypeScript and JavaScript for the web side.
+- **Python tooling:** pytest for everything, `venv` and pinned requirements, packaging through PyPI.
+- **Graphics and AI:** software rendering in plain Python, Three.js when it has to be in a browser, ONNX for local models.
+- **Everyday:** Linux, Git, a terminal, and a text editor with too many tabs open.
 
-## 🧸 Things I’ve crafted
+<img src="assets/art/rule.svg" alt="" width="100%" />
 
-*A few little projects, each with its own reason to exist.*
+## Questions
 
-| 🌟 Build | 🧁 What it does | 💭 Why I made it |
-| :--- | :--- | :--- |
-| 🌱 [**IRL-**](https://github.com/Dev2Creator/IRL-) | Universal package installer | Installing things shouldn’t need a wiki quest. |
-| 🐈 [**cutie-os**](https://github.com/Dev2Creator/cutie-os) | Wholesome terminal environment | The terminal can be a kind place. |
-| 🎮 [**py3dgame**](https://github.com/Dev2Creator/py3dgame) | 3D game development in Python | I wanted to understand how a renderer works, block by block. |
-| 🗿 [**IRL-WISDOM**](https://github.com/Dev2Creator/IRL-WISDOM) | Wisdom-powered terminal CLI | A tiny bit of perspective before the day’s adventure. |
-| 🦋 [**irl-besty**](https://github.com/Dev2Creator/irl-besty) | Password-seeded emoji cipher | Security can be playful *and* useful. |
-| 🌸 [**TransPower**](https://github.com/Dev2Creator/TransPower-v1.7) | Offline AI companion | Useful software, without shipping your life to a server. |
-
-## 🗺️ Current quest
-
-- **Main quest:** building **py3dgame**, a Python 3D engine with a software rasteriser, scene documents, a preview server, and an optional provider-neutral AI runtime.
-- **Next blocks:** shadow mapping, a real texture pipeline, and tone mapping—the behind-the-scenes details that make a world feel real.
-- **Big dream:** a scene editor that edits the same JSON the engine already loads.
-- **World setting:** offline-first. My projects should still work when the internet portal is closed. 🌙
-
-### 📜 Quest log
-
-- [x] **py3dgame 0.6** — software rasteriser, scene documents, preview server
-- [ ] **py3dgame 0.7** — shadow maps, texture pipeline, tone mapping
-- [ ] Build an editor for engine-native scene documents
-- [ ] Ship one small terminal tool each month; little builds deserve to leave the crafting table
-
-## 🎀 My little toolbox
+<sub>the three I am asked most, answered properly</sub>
 
 <details>
-<summary><b>Open the toolbox</b> — languages, tools & useful blocks ✨</summary>
+<summary><b>Why many small tools instead of one large application?</b></summary>
 
 <br />
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-ff9bb5?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-8ab8ff?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-8ab8ff?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f5c66b?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-83c9d4?style=flat-square&logo=typescript&logoColor=white)
-
-**Web, tools & test gear**
-
-![React](https://img.shields.io/badge/React-83c9d4?style=flat-square&logo=react&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-8fbd9a?style=flat-square&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-c1a0f5?style=flat-square&logo=vite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-a9998a?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f29c83?style=flat-square&logo=git&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-91c99a?style=flat-square&logo=pytest&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-83b8d5?style=flat-square&logo=onnx&logoColor=white)
+Because small tools get finished. A tool with one job can be documented, tested and
+trusted in a weekend, and it still runs three years later. A large application turns
+into a roadmap nobody reads, including its author.
 
 </details>
 
-## 🪄 The little rules behind my builds
-
 <details>
-<summary><b>My redstone rules</b> — tiny principles, big difference 💖</summary>
+<summary><b>What does offline-first actually mean here?</b></summary>
 
 <br />
 
-| 🌟 Rule | 💌 Why it matters |
-| :--- | :--- |
-| Learn the primitives before adding a framework. | The framework will still be there after you understand the blocks. |
-| Every dependency is a promise. | Keep the dependency chest small, pinned, and explained. |
-| If it isn’t documented, it’s a rumor. | Docs should describe what works—not the feature we wish existed. |
-| Measure before optimising. | Then measure again; vibes are not a benchmark. |
-| Tests are part of the build. | They help the project survive its next adventure. |
-| No telemetry, accounts, or “sign in to continue.” | Your tools should belong to you. |
+The core work happens on your machine, with no account and no telemetry, and the
+tools keep working when the network is gone. It does not mean every optional feature
+is air-gapped: anything that fetches data from the internet is described as doing so,
+in that project's own README rather than in a slogan.
 
 </details>
 
-<div align="center" id="thanks-for-visiting">
+<details>
+<summary><b>Can I use this code in my own project?</b></summary>
 
-<img src="assets/art/divider.svg" alt="Pastel sparkle divider" width="80%" />
+<br />
 
-## 💌 Thanks for visiting my little corner!
+Yes. Each repository carries its own licence (most are AGPL-3.0, so check the file
+before you ship). If you build something with it, open an issue with a link, because
+that is genuinely the best part of writing software in public.
 
-If a build saved you an afternoon, a ⭐ is a lovely little high-five. If you have an idea, question, or kind hello, my [portfolio](https://dev2creator-portfolio.vercel.app/) is always open. 🌷
+</details>
 
-**Stay curious. Keep crafting. Be kind to yourself.** 🩷
+## Principles
 
-<sub>Fan-made profile styling inspired by block-building games; not affiliated with or endorsed by Mojang or Microsoft.</sub>
+<sub>polite to machines, kind to people</sub>
+
+- **Small tools.** One job per repository, and the shortest dependency list that will do it.
+- **Honest documentation.** If a feature is unfinished, the README says unfinished. Docs describe the code that exists.
+- **Understandable engineering.** Cleverness is a cost. The next reader is usually me in six months.
+- **Useful software.** No account walls, no telemetry, no dark patterns, no feature that exists only for a screenshot.
+- **Little promises.** Bug reports get answers. Releases get notes. Numbers get sources.
+- **Build in public.** The commits, the tests and the mistakes are all visible, in that order.
+
+<details>
+<summary><b>Little rituals</b> — the habits behind the tidy parts</summary>
+
+<br />
+
+1. Write the test before the demo, so the demo can be repeated.
+2. Commit in small pieces; a messy history is a hard week.
+3. One repository, one job. A second purpose deserves a second repository.
+4. Answer the issue before adding the feature. Someone waited on that.
+5. Finish the docs for what exists before dreaming about what does not.
+
+</details>
+
+<img src="assets/art/rule.svg" alt="" width="100%" />
+
+<div align="center">
+
+<img src="assets/art/workspace.jpg" alt="a quiet purple desk at night: laptop, sleeping cat, cherry blossom branches" width="100%" />
+
+<sub>the desk behind all of this — purple light, one sleeping cat, slightly too much tea</sub>
+
+<img src="assets/bunny.gif" alt="the bunny, still hopping" width="72" />
+
+**Thanks for reading this far.**
+
+<sub>If a tool here saved you an afternoon, a star is a quiet thank you. If something is broken, an issue is a kindness. Come back any time, the kettle stays warm.</sub>
+
+<sub><a href="https://github.com/Dev2Creator">github.com/Dev2Creator</a>　·　<a href="https://dev2creator-portfolio.vercel.app/">portfolio</a>　·　<a href="https://pypi.org/project/irlxleet/">pypi</a>　·　<a href="#user-content-about">about</a></sub>
 
 </div>
