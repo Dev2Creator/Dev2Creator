@@ -8,7 +8,7 @@
 
 *I turn little “what if?” ideas into things you can play with, learn from, and use.*
 
-<a href="#user-content--spawn-point">🌷 about</a>　·　<a href="#user-content--things-ive-crafted">🧸 projects</a>　·　<a href="#user-content--current-quest">🗺️ quest</a>　·　<a href="#user-content--my-little-toolbox">🎀 toolbox</a>　·　<a href="#user-content-thanks-for-visiting">💌 say hi</a>
+<a href="#user-content--spawn-point">🌷 about</a>　·　<a href="#user-content--things-ive-crafted">🧸 projects</a>　·　<a href="#user-content-quest">🗺️ quest</a>　·　<a href="#user-content--my-little-toolbox">🎀 toolbox</a>　·　<a href="#user-content-thanks-for-visiting">💌 say hi</a>
 
 </div>
 
@@ -142,7 +142,7 @@ of characters, so the output is stable, reversible, and strangely pretty.
 
 </details>
 
-## 🗺️ Current quest
+<h2 id="quest">🗺️ Current quest</h2>
 
 - **Main quest:** building **py3dgame**, a Python 3D engine with a software rasteriser, scene documents, a preview server, and an optional provider-neutral AI runtime.
 - **Next blocks:** shadow mapping, a real texture pipeline, and tone mapping—the behind-the-scenes details that make a world feel real.
